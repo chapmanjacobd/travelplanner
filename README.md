@@ -34,6 +34,7 @@ ogr2ogr -f "PostgreSQL" PG:"dbname=api" db.sqlite cities
 You might need this: https://gis.stackexchange.com/questions/50107/where-to-find-shp2pgsql-windows-binaries
 
 If the local api instance is slow then try adding these indexes:
+```
 CREATE INDEX citiesi ON public.cities USING btree (i);
 CREATE INDEX citiesid ON public.cities USING btree (k);
 CREATE INDEX citiesk ON public.cities USING btree (k);
@@ -46,7 +47,7 @@ CREATE INDEX citiesn_autocomplete_nl_s_idx ON public.cities USING btree (nl_s te
 CREATE INDEX citiesn_autocomplete_s_idx ON public.cities USING btree (s text_pattern_ops);
 CREATE INDEX citiesn_autocompletegist_idx ON public.cities USING gist (n, s, c, i, nl_n, nl_s, nl_c);
 CREATE INDEX citiesn_geog_idx ON public.cities USING gist (geog);
-
+```
 
 #### Option 2: Create an ssh session and leave it open
 
@@ -80,6 +81,7 @@ https://stackoverflow.com/questions/6024108/export-a-create-script-for-a-databas
 
 ## File structure
 
+```
 .
 ├── api          <-- Express.js backend API
 │   ├── app.js
@@ -127,3 +129,4 @@ https://stackoverflow.com/questions/6024108/export-a-create-script-for-a-databas
         └── styles <-- some CSS
     ├── build    <-- production files, ignore
     └── public   <-- production files, ignore
+```

@@ -1,0 +1,12 @@
+{
+  "singleQuote": true,
+  "arrayExpand": true,
+  "noSpaceEmptyFn": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "jsxSingleQuote": true,
+  "arrowParens": false,
+  "spaceBeforeFunctionParen": true,
+  "printWidth": 100
+}

@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+input#dest-length-set,
+input#dest-datause-set {
+  text-align: right;
+  /* direction: rtl; */
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.travelplannerlogo {
+  border: 1px solid #888;
+  background: #3e2564;
+  margin: 12px 0 12px 0;
+}
+
+#initNext > span {
+  left: 5px;
+  position: relative;
+}
+
+.flag {
+  border: 1px solid #888;
+  vertical-align: middle;
+  height: 22px !important;
+  width: 32px !important;
+  transition: all 2.2s cubic-bezier(.25, .8, .25, 1);
+}
+
+.flagcont {
+  text-align: right;
+}
+
+.meters:hover {
+  box-shadow: none;
+}
+
+#passport-multiple-checkbox {
+  height: 40px;
+}
+
+@media print {
+  @page {
+    margin: 0;
+  }
+
+  .printHide {
+    visibility: hidden;
+  }
+
+  img,
+  svg {
+    display: none;
+  }
+
+  img.print,
+  svg.print {
+    display: block;
+    max-width: 100%;
+  }
+
+  img.dark {
+    filter: invert(100%) hue-rotate(180deg) brightness(120%) contrast(150%);
+  }
+
+  body {
+    -webkit-print-color-adjust: exact;
+    margin: 1.6cm;
+    font-size: 16pt;
+  }
+
+  a[href*='//']:after {
+    content: " (" attr(href) ") ";
+  }
+
+  p {
+    page-break-after: avoid;
+    page-break-before: always;
+  }
+
+  p:first-child {
+    page-break-before: avoid;
+  }
+
+  #printwrap {
+    margin: auto;
+  }
+}
+
+/* fix for desktop native datepicker */
+
+input[type="date"] {
+  position: relative;
+  max-width: 150px;
+}
+
+/* create a new arrow, because we are going to mess up the native one
+see "List of symbols" below if you want another, you could also try to add a font-awesome icon.. */
+input[type="date"]:after {
+  content: "\25BC";
+  color: #555;
+  padding: 0 5px;
+}
+
+/* change color of symbol on hover */
+input[type="date"]:hover:after {
+  color: #bf1400;
+}
+
+/* make the native arrow invisible and stretch it over the whole field so you can click anywhere in the input field to trigger the native datepicker*/
+input[type="date"]::-webkit-calendar-picker-indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: auto;
+  height: auto;
+  color: transparent;
+  background: transparent;
+}
+
+/* adjust increase/decrease button */
+input[type="date"]::-webkit-inner-spin-button {
+  z-index: 1;
+}
+
+/* adjust clear button */
+input[type="date"]::-webkit-clear-button {
+  z-index: 1;
+}

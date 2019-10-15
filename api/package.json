@@ -1,0 +1,32 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "./node_modules/nodemon/bin/nodemon.js --watch '*' --watch helpers --watch routes"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bluebird": "^3.5.5",
+    "cookie-parser": "^1.4.4",
+    "debug": "~2.6.9",
+    "errorhandler": "^1.5.1",
+    "express": "~4.16.0",
+    "express-winston": "^3.1.0",
+    "google-auth-library": "^4.2.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.19.1",
+    "p-queue": "^3.2.0",
+    "pg-promise": "^8.7.2",
+    "query-string": "^6.5.0",
+    "reload": "^2.4.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-security": "^1.4.0"
+  }
+}

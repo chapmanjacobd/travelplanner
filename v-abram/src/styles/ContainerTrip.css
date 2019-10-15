@@ -1,0 +1,116 @@
+/* ContainerTrip page */
+
+#bookcontainer {
+  /* position: absolute; */
+  height: 100vh;
+  overflow: auto;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #888;
+  padding-bottom: 5px;
+  line-height: 1;
+}
+
+#icons {
+  display: inline;
+  margin-right: 8px;
+}
+
+.icons {
+  display: inline;
+  padding: 0 2px;
+  vertical-align: -4px;
+  font-size: 22px;
+}
+
+.location {
+  line-height: 28px;
+  display: inline;
+}
+
+.card-subtitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  margin-bottom: 1.6rem;
+}
+
+.cardcontainer {
+  background-color: white;
+  margin: 10px;
+}
+
+.cardbodycontainer {
+  border: 1px solid #888;
+  box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.28);
+  -webkit-box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.28);
+  -moz-box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.28);
+}
+
+.indent {
+  padding-left: 3rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.col_section {
+  border: 1px solid black;
+  display: table;
+  padding: 7px;
+  margin: 8px 0;
+}
+
+.col_list {
+  margin: 0;
+  padding: 0;
+  display: table-row;
+  text-align: right;
+}
+
+.col_list:after {
+  content: attr(data-label);
+  display: table-cell;
+  padding: 2px 0px 5px 5px;
+  /* padding: 4px 20px 8px 20px; */
+  text-align: left;
+}
+
+.vcontainer {
+  margin: 20px;
+}
+
+/*     ,.,
+      MMMM_    ,..,
+        "_ "__"MMMMM          ,...,,
+ ,..., __." --"    ,.,     _-"MMMMMMM
+MMMMMM"___ "_._   MMM"_."" _ """"""
+ """""    "" , \_.   "_. ."
+        ,., _"__ \__./ ."
+       MMMMM_"  "_    ./
+        ''''      (    )
+ ._______________.-'____"---._.
+  \ ~rEsPeCt the CSS BONZAI~ /
+   \________________________/
+   (_)                    (_)*/
+
+@media (max-width: 880px) {
+  .u-pull-right.location {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 880px) {
+  .cardcontainer {
+    width: 70vw;
+  }
+}

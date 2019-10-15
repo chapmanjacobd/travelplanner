@@ -1,0 +1,762 @@
+{
+    "languageCode": "en",
+    "currencyCode": "USD",
+    "elapsedTime": 138,
+    "places": [
+        {
+            "lat": 47.60621,
+            "lng": -122.3321,
+            "kind": "city",
+            "shortName": "Seattle",
+            "longName": "Seattle, WA, USA",
+            "canonicalName": "Seattle",
+            "regionCode": "WA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.32597,
+            "lng": -122.5879,
+            "kind": "town",
+            "shortName": "Gig Harbor",
+            "longName": "Gig Harbor, WA, USA",
+            "canonicalName": "Gig-Harbor",
+            "regionCode": "WA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.60152,
+            "lng": -122.3319,
+            "kind": "station",
+            "shortName": "2nd Ave & Yesler Way",
+            "code": "249",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.31808,
+            "lng": -122.5868,
+            "kind": "station",
+            "shortName": "Kimball Dr Park & Ride - Bay 2",
+            "code": "4237",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59211,
+            "lng": -122.3275,
+            "kind": "station",
+            "shortName": "Bus Wy & Royal Brougham St",
+            "code": "669",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.58606,
+            "lng": -122.3276,
+            "kind": "station",
+            "shortName": "Bus Wy & Holgate St",
+            "code": "663",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.5797,
+            "lng": -122.3276,
+            "kind": "station",
+            "shortName": "Bus Wy & Lander St",
+            "code": "665",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57175,
+            "lng": -122.3276,
+            "kind": "station",
+            "shortName": "Bus Wy & S Spokane St",
+            "code": "671",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.24355,
+            "lng": -122.5263,
+            "kind": "station",
+            "shortName": "TCC Transit Ctr - Zone M",
+            "code": "4210",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.25556,
+            "lng": -122.5324,
+            "kind": "station",
+            "shortName": "Narrows P&R",
+            "code": "394",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.60214,
+            "lng": -122.3311,
+            "kind": "station",
+            "shortName": "Pioneer Sq Stn & 3rd Av - James - Bay C",
+            "code": "501",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.44497,
+            "lng": -122.297,
+            "kind": "station",
+            "shortName": "Seatac/Airport Stn Rail & Intl Blvd S/S 176 St",
+            "code": "99904",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.44426,
+            "lng": -122.302,
+            "kind": "station",
+            "shortName": "SeaTac Airport",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.31037,
+            "lng": -122.582,
+            "kind": "station",
+            "shortName": "Gig Harbor, WA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59766,
+            "lng": -122.3282,
+            "kind": "station",
+            "shortName": "Intl Distr Stn & S Jackson St - 5th Avenue S - Bay C",
+            "code": "623",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59181,
+            "lng": -122.3274,
+            "kind": "station",
+            "shortName": "Stadium Stn Rail & SODO Busway/S Royal Brougham Way",
+            "code": "99101",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57995,
+            "lng": -122.3275,
+            "kind": "station",
+            "shortName": "SODO Stn Rail & SODO Busway/S Lander St",
+            "code": "99111",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57912,
+            "lng": -122.3113,
+            "kind": "station",
+            "shortName": "Beacon Hill Stn Tun & Beacon Av S/S Lander St",
+            "code": "99121",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57644,
+            "lng": -122.2977,
+            "kind": "station",
+            "shortName": "Mount Baker Station Rail & Rainier Av S/S Mcclellan St",
+            "code": "55949",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.55895,
+            "lng": -122.2923,
+            "kind": "station",
+            "shortName": "Columbia City Stn Rail & Mlk Jr Wy S/S Alaska St",
+            "code": "56039",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.53753,
+            "lng": -122.2815,
+            "kind": "station",
+            "shortName": "Othello Station Rail & Mlk Jr Wy S/S Othello St",
+            "code": "56159",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.52227,
+            "lng": -122.2796,
+            "kind": "station",
+            "shortName": "Rainier Beach Stn Rail & Mlk Jr Wy S/S Henderson St",
+            "code": "56173",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.46427,
+            "lng": -122.2884,
+            "kind": "station",
+            "shortName": "Tukwila Intl Blvd Stn Rail & Tukwila Intl Blvd S/S 154th St",
+            "code": "99900",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.25506,
+            "lng": -122.5176,
+            "kind": "station",
+            "shortName": "Tacoma, WA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.60617,
+            "lng": -122.3362,
+            "kind": "station",
+            "shortName": "2nd Ave & Seneca St",
+            "code": "1772",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        }
+    ],
+    "airlines": [],
+    "aircrafts": [],
+    "agencies": [
+        {
+            "name": "Sound Transit",
+            "url": "https://www.soundtransit.org/",
+            "phone": "+1 206-398-5000",
+            "icon": {
+                "url": "/logos/Trains/96/_SOUND_TRANSIT_ST_201804031415.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Bremerton-Kitsap Airporter",
+            "url": "http://kitsapairporter.com",
+            "icon": {
+                "url": "/logos/trains/96/Bremerton-KitsapAirporter.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "STITA Taxi",
+            "url": "http://www.stitataxi.com/",
+            "phone": "+1 206-246-9999"
+        },
+        {
+            "name": "Seattle Yellow Cab",
+            "url": "http://www.seattleyellowcab.com/",
+            "phone": "+1 206-622-6500"
+        },
+        {
+            "name": "Orange Cabs",
+            "phone": "+1 206-444-0409"
+        }
+    ],
+    "vehicles": [
+        {
+            "name": "Bus",
+            "kind": "bus"
+        },
+        {
+            "name": "Tram",
+            "kind": "tram"
+        },
+        {
+            "name": "Walk",
+            "kind": "foot"
+        },
+        {
+            "name": "Taxi",
+            "kind": "taxi"
+        },
+        {
+            "name": "Car",
+            "kind": "car"
+        }
+    ],
+    "routes": [
+        {
+            "name": "Bus",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 72.97,
+            "totalDuration": 99,
+            "totalTransitDuration": 99,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "price": 4,
+                    "priceLow": 2,
+                    "priceHigh": 4,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 2,
+                    "arrPlace": 3,
+                    "vehicle": 0,
+                    "distance": 72.97,
+                    "transitDuration": 99,
+                    "transferDuration": 0,
+                    "path": "qdpaHn}siVdCsC@sLsIfCoDcMdZc`@xRgF~MzDtGza@nEfMlPkCjLBPkHQjHtf@CRgHSfHls@NeAsHxFck@dMNbh@vGbQgAzi@wZzFsGxQk_@fH_Ktc@{c@r[_a@xDkCbr@kXt_@_K`b@cQnjAwy@lh@kj@z_@{e@dQoAhGvEtX~\\`UrGvF_@bc@kOxXsE|YcIh^{LtW[jK~Arg@bObqAzQzNfI|HfKvGfNpi@n{@jTfRpIzCvt@jMvXvAjmBkMxXv@~sCvd@`WOtMwC|a@sNxR_AtvBjIxDb@vaGb{Ahq@b]|YfUvy@b_Ab]fTpJvChn@zKbQjOnGv[hCfjEoG~_CjC~ZfI~\\fCrt@rDnf@dCrJ|Rrl@hCbQnDze@pLrq@Hv[gHnbAcQvXkB~Pn@vTx@~tCcFjUee@vX{C{Cb@vuCkDSu@RwgARQ~c@Dv[_Y^~CsCiD~QeBvCk~AzuBoMbGqn@[mTrGorD~}CkOrHqJjAsAcDjJoG`O[",
+                    "indicativePrices": [
+                        {
+                            "price": 4,
+                            "priceLow": 2,
+                            "priceHigh": 4,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 2
+                        },
+                        {
+                            "place": 2,
+                            "transitDuration": 1
+                        },
+                        {
+                            "place": 4,
+                            "transitDuration": 4
+                        },
+                        {
+                            "place": 5,
+                            "transitDuration": 6
+                        },
+                        {
+                            "place": 6,
+                            "transitDuration": 8
+                        },
+                        {
+                            "place": 7,
+                            "transitDuration": 10
+                        },
+                        {
+                            "place": 8,
+                            "transitDuration": 84
+                        },
+                        {
+                            "place": 9,
+                            "transitDuration": 87
+                        },
+                        {
+                            "place": 3,
+                            "transitDuration": 99
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 0,
+                            "frequency": 25,
+                            "duration": 99,
+                            "operatingDays": 62,
+                            "lineNames": [
+                                "595"
+                            ],
+                            "lineCodes": [
+                                "595"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.soundtransit.org/Schedules",
+                                    "displayUrl": "soundtransit.org"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tram, bus",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 75.52,
+            "totalDuration": 105,
+            "totalTransitDuration": 88,
+            "totalTransferDuration": 17,
+            "indicativePrices": [
+                {
+                    "price": 33,
+                    "priceLow": 16,
+                    "priceHigh": 34,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 10,
+                    "arrPlace": 11,
+                    "vehicle": 1,
+                    "distance": 22.91,
+                    "transitDuration": 33,
+                    "transferDuration": 0,
+                    "path": "khpaH~wsiVrDgJlGR~G{G|Cb@tKNfQ{DhEFtBCpKK~Dj@~i@K~B?lOc@lAgHZ_d@ToM}@_GoGgQuAoGYwAqBoPf@cInG{XpCwV`DwE`B{@`IkDta@JbOCjD{@``@{S|AkA|A_@zDsBf|Bk~@tCwAfB[`EgB~k@o@lHsBlLwE~FO`KfB@SbJfBtCNnaAsHxGfEvAnGtAfn@dD~HnFr@hRkGvLsB~GcDtCgDtIgQfG{DpXcDdHcFh]{i@rE{CjDc@lKb@~B[nh@{SvXcDvM~@|D~FRvKmCfS?zIjCfNlHfOhBbMsA~L_ArDFBsBrMdCvKx@zAd`@rh@nIzD|UNhG_BbDsCzG_K|Bs@dTKZFn@?",
+                    "indicativePrices": [
+                        {
+                            "price": 3,
+                            "priceLow": 2,
+                            "priceHigh": 4,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 10
+                        },
+                        {
+                            "place": 14,
+                            "transitDuration": 2
+                        },
+                        {
+                            "place": 15,
+                            "transitDuration": 4
+                        },
+                        {
+                            "place": 16,
+                            "transitDuration": 6
+                        },
+                        {
+                            "place": 17,
+                            "transitDuration": 9
+                        },
+                        {
+                            "place": 18,
+                            "transitDuration": 11
+                        },
+                        {
+                            "place": 19,
+                            "transitDuration": 14
+                        },
+                        {
+                            "place": 20,
+                            "transitDuration": 18
+                        },
+                        {
+                            "place": 21,
+                            "transitDuration": 21
+                        },
+                        {
+                            "place": 22,
+                            "transitDuration": 30
+                        },
+                        {
+                            "place": 11,
+                            "transitDuration": 33
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 0,
+                            "frequency": 1860,
+                            "duration": 33,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "Link station"
+                            ],
+                            "lineCodes": [
+                                "100479"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.soundtransit.org/Schedules",
+                                    "displayUrl": "soundtransit.org"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 11,
+                    "arrPlace": 12,
+                    "vehicle": 2,
+                    "distance": 0.74,
+                    "transitDuration": 9,
+                    "transferDuration": 0,
+                    "path": "arq`HjcmiVrAS?WyCFRJUn@xAbCCfIjFzIc@jBC?_@fEc@oC"
+                },
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 12,
+                    "arrPlace": 13,
+                    "vehicle": 0,
+                    "distance": 51.87,
+                    "transitDuration": 46,
+                    "transferDuration": 17,
+                    "path": "smq`HnbniVbEoAhLoUyE{Hqj@bA{GrEEoIjOjAndB_Fzw@rEGov@|GkD`SjNpIzCvt@jMvXvAjmBkMxXv@~sCvd@`WOtMwCx]kMrOgBhF?tvBjIxDb@vaGb{Ahq@b]|YfUvy@b_AdMrJ|NrHpJvChn@zKlNjKrHfTp@nJhCfjEoG~_CrAvU~Jfb@fCrt@rDnf@dCrJ|Rrl@hCbQpBj]rMrt@z@~UUfJgHnbAcQvXkB~Pn@vTx@~tCmCnPmFvH{R~L}j@rf@gTnQgMnHiPz@AfQfAfIgAgI}P?BzQ}Bv`ARri@{DnReBvCk~AzuBoMbGqDJ_i@g@iQjEcBfAopAngAsJ~FyLbElJfO_@jXcJ~GoMvDoKoBF_L",
+                    "indicativePrices": [
+                        {
+                            "price": 30,
+                            "priceLow": 13,
+                            "priceHigh": 30,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 12
+                        },
+                        {
+                            "place": 23,
+                            "transitDuration": 35
+                        },
+                        {
+                            "place": 13,
+                            "transitDuration": 46
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 1,
+                            "frequency": 294,
+                            "duration": 46,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "Kitsap-SeaTac Airporter"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.kitsapairporter.com/",
+                                    "displayUrl": "kitsapairporter.com"
+                                },
+                                {
+                                    "text": "Book at",
+                                    "url": "https://www.kitsapairporter.com/reservations/",
+                                    "displayUrl": "kitsapairporter.com"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bus via 2nd Ave & Seneca St",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 73.61,
+            "totalDuration": 102,
+            "totalTransitDuration": 102,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "price": 4,
+                    "priceLow": 2,
+                    "priceHigh": 4,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 24,
+                    "arrPlace": 3,
+                    "vehicle": 0,
+                    "distance": 73.61,
+                    "transitDuration": 102,
+                    "transferDuration": 0,
+                    "path": "saqaHbxtiV`\\sYdCsC@sLsIfCoDcMdZc`@xRgF~MzDtGza@nEfMlPkCjLBPkHQjHtf@CRgHSfHls@NeAsHxFck@dMNbh@vGbQgAzi@wZzFsGxQk_@fH_Ktc@{c@r[_a@xDkCbr@kXt_@_K`b@cQnjAwy@lh@kj@z_@{e@dQoAhGvEtX~\\`UrGvF_@bc@kOxXsE|YcIh^{LtW[jK~Arg@bObqAzQzNfI|HfKvGfNpi@n{@jTfRpIzCvt@jMvXvAjmBkMxXv@~sCvd@`WOtMwC|a@sNxR_AtvBjIxDb@vaGb{Ahq@b]|YfUvy@b_Ab]fTpJvChn@zKbQjOnGv[hCfjEoG~_CjC~ZfI~\\fCrt@rDnf@dCrJ|Rrl@hCbQnDze@pLrq@Hv[gHnbAcQvXkB~Pn@vTx@~tCcFjUee@vX{C{Cb@vuCkDSu@RwgARQ~c@Dv[_Y^~CsCiD~QeBvCk~AzuBoMbGqn@[mTrGorD~}CkOrHqJjAsAcDjJoG`O[",
+                    "indicativePrices": [
+                        {
+                            "price": 4,
+                            "priceLow": 2,
+                            "priceHigh": 4,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 24
+                        },
+                        {
+                            "place": 2,
+                            "transitDuration": 3
+                        },
+                        {
+                            "place": 2,
+                            "transitDuration": 4
+                        },
+                        {
+                            "place": 4,
+                            "transitDuration": 7
+                        },
+                        {
+                            "place": 5,
+                            "transitDuration": 9
+                        },
+                        {
+                            "place": 6,
+                            "transitDuration": 11
+                        },
+                        {
+                            "place": 7,
+                            "transitDuration": 13
+                        },
+                        {
+                            "place": 8,
+                            "transitDuration": 87
+                        },
+                        {
+                            "place": 9,
+                            "transitDuration": 90
+                        },
+                        {
+                            "place": 3,
+                            "transitDuration": 102
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 0,
+                            "frequency": 25,
+                            "duration": 102,
+                            "operatingDays": 62,
+                            "lineNames": [
+                                "595"
+                            ],
+                            "lineCodes": [
+                                "595"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.soundtransit.org/Schedules",
+                                    "displayUrl": "soundtransit.org"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Taxi",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 70.07,
+            "totalDuration": 50,
+            "totalTransitDuration": 50,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "price": 160,
+                    "priceLow": 130,
+                    "priceHigh": 160,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 0,
+                    "arrPlace": 1,
+                    "vehicle": 3,
+                    "distance": 70.07,
+                    "transitDuration": 50,
+                    "transferDuration": 0,
+                    "path": "kbqaHz~siVcB~GqC{Pt[cXtYs]tLgDnJKhYvAdVwDtPo@|WwDtTrBhi@fB~p@jIbQgAzi@wZzFsGxQk_@fH_Ktc@{c@r[_a@xDkCbr@kXt_@_K`b@cQnjAwy@lh@kj@z_@{e@jNwBbJ~FtX~\\`UrGvF_@bc@kOxXsE|YcIh^{LtW[jK~Arg@bObqAzQzNfI|HfKvGfNpi@n{@jTfRpIzCvt@jMvXvAjmBkMxXv@~sCvd@`WOtMwC|a@sNxR_AtvBjIxDb@vaGb{Ahq@b]|YfUvy@b_A~VzPtPbGhn@zKlNjKrHfTp@nJhCfjEoG~_CjC~ZfI~\\fCrt@rDnf@dCrJ|Rrl@hCbQnDze@tKbl@z@~UUfJgHnbAcQvXkB~Pn@vTx@~tCcFjUwCzC{R~L}j@rf@i_@b[qXbIaJnTuD~gA@vm@oGbSk~AzuBoMbGqn@[mTrGorD~}CkOrHqJjAkM_OmBjH",
+                    "indicativePrices": [
+                        {
+                            "price": 160,
+                            "priceLow": 130,
+                            "priceHigh": 160,
+                            "currency": "USD"
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 2
+                        },
+                        {
+                            "agency": 3
+                        },
+                        {
+                            "agency": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Drive",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 70.07,
+            "totalDuration": 50,
+            "totalTransitDuration": 50,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "name": "Small vehicle",
+                    "price": 5,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Medium vehicle",
+                    "price": 6,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Large vehicle",
+                    "price": 7,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 0,
+                    "arrPlace": 1,
+                    "vehicle": 4,
+                    "distance": 70.07,
+                    "transitDuration": 50,
+                    "transferDuration": 0,
+                    "path": "kbqaHz~siVcB~GqC{Pt[cXtYs]tLgDnJKhYvAdVwDtPo@|WwDtTrBhi@fB~p@jIbQgAzi@wZzFsGxQk_@fH_Ktc@{c@r[_a@xDkCbr@kXt_@_K`b@cQnjAwy@lh@kj@z_@{e@jNwBbJ~FtX~\\`UrGvF_@bc@kOxXsE|YcIh^{LtW[jK~Arg@bObqAzQzNfI|HfKvGfNpi@n{@jTfRpIzCvt@jMvXvAjmBkMxXv@~sCvd@`WOtMwC|a@sNxR_AtvBjIxDb@vaGb{Ahq@b]|YfUvy@b_A~VzPtPbGhn@zKlNjKrHfTp@nJhCfjEoG~_CjC~ZfI~\\fCrt@rDnf@dCrJ|Rrl@hCbQnDze@tKbl@z@~UUfJgHnbAcQvXkB~Pn@vTx@~tCcFjUwCzC{R~L}j@rf@i_@b[qXbIaJnTuD~gA@vm@oGbSk~AzuBoMbGqn@[mTrGorD~}CkOrHqJjAkM_OmBjH",
+                    "indicativePrices": [
+                        {
+                            "name": "Small vehicle",
+                            "price": 5,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Medium vehicle",
+                            "price": 6,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Large vehicle",
+                            "price": 7,
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

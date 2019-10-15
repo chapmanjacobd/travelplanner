@@ -1,0 +1,11 @@
+{
+  "extends": "react-static/.babelrc",
+  "presets": [
+    ["env", {
+      "production": {
+        "plugins": ["transform-remove-console"]
+      },
+      "modules": false
+    }]
+  ]
+}

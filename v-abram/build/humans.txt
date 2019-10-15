@@ -1,0 +1,16 @@
+/* TEAM */
+	Senior Software Engineer: Abram Himmer
+	Contact: https://www.linkedin.com/in/abram-himmer/
+
+	Product Manager: Jacob Chapman
+	Contact: https://www.linkedin.com/in/jacob-chapman/
+
+/* THANKS */
+	Abram -- the website might not exist without your help,
+	My parents -- for teaching me the value of hard work, 
+  Elyssa -- for making me realize how to improve the UI, 
+  Ethan -- for helping us realize what is most important, 
+	and all others not mentioned.
+
+/* SITE */
+	Launched: 2018/10/07

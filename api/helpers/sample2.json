@@ -1,0 +1,4138 @@
+{
+    "languageCode": "en",
+    "currencyCode": "USD",
+    "elapsedTime": 146,
+    "places": [
+        {
+            "lat": 47.60621,
+            "lng": -122.3321,
+            "kind": "city",
+            "shortName": "Seattle",
+            "longName": "Seattle, WA, USA",
+            "canonicalName": "Seattle",
+            "regionCode": "WA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.65966,
+            "lng": -117.4291,
+            "kind": "city",
+            "shortName": "Spokane",
+            "longName": "Spokane, WA, USA",
+            "canonicalName": "Spokane",
+            "regionCode": "WA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.592,
+            "lng": -122.327,
+            "kind": "station",
+            "shortName": "Seattle, Wa",
+            "code": "780780",
+            "countryCode": "US",
+            "timeZone": "US/Pacific"
+        },
+        {
+            "lat": 47.656,
+            "lng": -117.415,
+            "kind": "station",
+            "shortName": "Spokane, Wa",
+            "code": "780835",
+            "countryCode": "US",
+            "timeZone": "US/Pacific"
+        },
+        {
+            "lat": 47.007,
+            "lng": -120.586,
+            "kind": "station",
+            "shortName": "Ellensburg, Wa",
+            "code": "780285",
+            "countryCode": "US",
+            "timeZone": "US/Pacific"
+        },
+        {
+            "lat": 47.102,
+            "lng": -119.245,
+            "kind": "station",
+            "shortName": "Moses Lake, Wa",
+            "code": "780550",
+            "countryCode": "US",
+            "timeZone": "US/Pacific"
+        },
+        {
+            "lat": 47.59873,
+            "lng": -122.3289,
+            "kind": "station",
+            "shortName": "Seattle Amtrak",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.65621,
+            "lng": -117.4153,
+            "kind": "station",
+            "shortName": "Spokane",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.97551,
+            "lng": -122.1979,
+            "kind": "station",
+            "shortName": "Everett",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.85559,
+            "lng": -121.9714,
+            "kind": "station",
+            "shortName": "Monroe",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.71,
+            "lng": -121.3558,
+            "kind": "station",
+            "shortName": "Skykomish Junction",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.745,
+            "lng": -121.0933,
+            "kind": "station",
+            "shortName": "Stevens Pass",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59623,
+            "lng": -120.6615,
+            "kind": "station",
+            "shortName": "Leavenworth",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.42134,
+            "lng": -120.3072,
+            "kind": "station",
+            "shortName": "Wenatchee",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.23955,
+            "lng": -119.8534,
+            "kind": "station",
+            "shortName": "Quincy",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.10179,
+            "lng": -119.2576,
+            "kind": "station",
+            "shortName": "Moses Lake",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.12639,
+            "lng": -118.3772,
+            "kind": "station",
+            "shortName": "Ritzville",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.61504,
+            "lng": -122.3347,
+            "kind": "station",
+            "shortName": "Seattle Greyhound",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59845,
+            "lng": -122.3302,
+            "kind": "station",
+            "shortName": "Seattle King Street Station",
+            "code": "SEA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.65672,
+            "lng": -117.4155,
+            "kind": "station",
+            "shortName": "Spokane Amtrak Station",
+            "code": "SPK",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.81108,
+            "lng": -122.3841,
+            "kind": "station",
+            "shortName": "Edmonds Amtrak Station",
+            "code": "EDM",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.9754,
+            "lng": -122.1979,
+            "kind": "station",
+            "shortName": "Everett Amtrak Station",
+            "code": "EVR",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.60649,
+            "lng": -120.644,
+            "kind": "station",
+            "shortName": "Leavenworth Amtrak",
+            "code": "LWA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.42155,
+            "lng": -120.3065,
+            "kind": "station",
+            "shortName": "Wenatchee Amtrak",
+            "code": "WEN",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.32095,
+            "lng": -119.5493,
+            "kind": "station",
+            "shortName": "Ephrata Amtrak",
+            "code": "EPH",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59766,
+            "lng": -122.3282,
+            "kind": "station",
+            "shortName": "Intl Distr Stn & S Jackson St - 5th Avenue S - Bay C",
+            "code": "623",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.44497,
+            "lng": -122.297,
+            "kind": "station",
+            "shortName": "Seatac/Airport Stn Rail & Intl Blvd S/S 176 St",
+            "code": "99904",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.44443,
+            "lng": -122.3005,
+            "kind": "airport",
+            "shortName": "Seattle",
+            "code": "SEA",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.62429,
+            "lng": -117.5372,
+            "kind": "airport",
+            "shortName": "Spokane",
+            "code": "GEG",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.62447,
+            "lng": -117.5385,
+            "kind": "station",
+            "shortName": "SIA Concourse C",
+            "code": "2831",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65784,
+            "lng": -117.4227,
+            "kind": "station",
+            "shortName": "Plaza Zone 3",
+            "code": "3246",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 45.58903,
+            "lng": -122.5931,
+            "kind": "airport",
+            "shortName": "Portland",
+            "code": "PDX",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.59181,
+            "lng": -122.3274,
+            "kind": "station",
+            "shortName": "Stadium Stn Rail & SODO Busway/S Royal Brougham Way",
+            "code": "99101",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57995,
+            "lng": -122.3275,
+            "kind": "station",
+            "shortName": "SODO Stn Rail & SODO Busway/S Lander St",
+            "code": "99111",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57912,
+            "lng": -122.3113,
+            "kind": "station",
+            "shortName": "Beacon Hill Stn Tun & Beacon Av S/S Lander St",
+            "code": "99121",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.57644,
+            "lng": -122.2977,
+            "kind": "station",
+            "shortName": "Mount Baker Station Rail & Rainier Av S/S Mcclellan St",
+            "code": "55949",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.55895,
+            "lng": -122.2923,
+            "kind": "station",
+            "shortName": "Columbia City Stn Rail & Mlk Jr Wy S/S Alaska St",
+            "code": "56039",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.53753,
+            "lng": -122.2815,
+            "kind": "station",
+            "shortName": "Othello Station Rail & Mlk Jr Wy S/S Othello St",
+            "code": "56159",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.52227,
+            "lng": -122.2796,
+            "kind": "station",
+            "shortName": "Rainier Beach Stn Rail & Mlk Jr Wy S/S Henderson St",
+            "code": "56173",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.46427,
+            "lng": -122.2884,
+            "kind": "station",
+            "shortName": "Tukwila Intl Blvd Stn Rail & Tukwila Intl Blvd S/S 154th St",
+            "code": "99900",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.6265,
+            "lng": -117.5369,
+            "kind": "station",
+            "shortName": "Leave SIA Concourse A",
+            "code": "2539",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.63556,
+            "lng": -117.5172,
+            "kind": "station",
+            "shortName": "Airport @ Spotted",
+            "code": "3028",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.64286,
+            "lng": -117.4967,
+            "kind": "station",
+            "shortName": "Sunset @ Grove",
+            "code": "2638",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.64286,
+            "lng": -117.4932,
+            "kind": "station",
+            "shortName": "Sunset @ Windsor",
+            "code": "4080",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.64285,
+            "lng": -117.4892,
+            "kind": "station",
+            "shortName": "Sunset @ Lewis",
+            "code": "2640",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.6402,
+            "lng": -117.4743,
+            "kind": "station",
+            "shortName": "Sunset @ Rustle",
+            "code": "2643",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.64848,
+            "lng": -117.4539,
+            "kind": "station",
+            "shortName": "Sunset @ Government Wy",
+            "code": "4081",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.64904,
+            "lng": -117.4503,
+            "kind": "station",
+            "shortName": "Sunset @ Lindeke",
+            "code": "2644",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65255,
+            "lng": -117.4416,
+            "kind": "station",
+            "shortName": "Cannon @ 4th",
+            "code": "3076",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65266,
+            "lng": -117.4446,
+            "kind": "station",
+            "shortName": "4th @ Hemlock",
+            "code": "4086",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65553,
+            "lng": -117.4447,
+            "kind": "station",
+            "shortName": "Pacific @ Hemlock",
+            "code": "3039",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65552,
+            "lng": -117.4417,
+            "kind": "station",
+            "shortName": "Pacific @ Cannon",
+            "code": "3060",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65549,
+            "lng": -117.4386,
+            "kind": "station",
+            "shortName": "Pacific @ Oak",
+            "code": "2149",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65547,
+            "lng": -117.4365,
+            "kind": "station",
+            "shortName": "Pacific @ Maple",
+            "code": "2150",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65644,
+            "lng": -117.4326,
+            "kind": "station",
+            "shortName": "1st @ Cedar",
+            "code": "1148",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65644,
+            "lng": -117.4291,
+            "kind": "station",
+            "shortName": "1st @ Jefferson",
+            "code": "1149",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 47.65714,
+            "lng": -117.425,
+            "kind": "station",
+            "shortName": "Lincoln @ Sprague",
+            "code": "1051",
+            "countryCode": "US",
+            "timeZone": "America/Vancouver"
+        },
+        {
+            "lat": 46.74427,
+            "lng": -117.1139,
+            "kind": "airport",
+            "shortName": "Pullman",
+            "code": "PUW",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 46.73127,
+            "lng": -117.1796,
+            "kind": "station",
+            "shortName": "Pullman",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.65628,
+            "lng": -117.4155,
+            "kind": "station",
+            "shortName": "Spokane",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 46.88017,
+            "lng": -117.3643,
+            "kind": "station",
+            "shortName": "Colfax",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.60621,
+            "lng": -122.3321,
+            "kind": "station",
+            "shortName": "Seattle",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        },
+        {
+            "lat": 47.44443,
+            "lng": -122.3005,
+            "kind": "station",
+            "shortName": "Seattle Airport",
+            "countryCode": "US",
+            "timeZone": "America/Los_Angeles"
+        }
+    ],
+    "airlines": [
+        {
+            "code": "AS",
+            "name": "Alaska Airlines, Inc.",
+            "url": "https://www.alaskaair.com/",
+            "icon": {
+                "url": "/logos/airlines/AS.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "AA",
+            "name": "American Airlines",
+            "url": "https://www.aa.com/",
+            "icon": {
+                "url": "/logos/airlines/AA.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "EK",
+            "name": "Emirates",
+            "url": "https://www.emirates.com",
+            "icon": {
+                "url": "/logos/airlines/EK.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "BA",
+            "name": "British Airways",
+            "url": "https://www.britishairways.com",
+            "icon": {
+                "url": "/logos/airlines/BA.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "KE",
+            "name": "Korean Air",
+            "url": "https://www.koreanair.com/",
+            "icon": {
+                "url": "/logos/airlines/KE.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "FI",
+            "name": "Icelandair",
+            "url": "https://www.icelandair.com/",
+            "icon": {
+                "url": "/logos/airlines/FI.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "DL",
+            "name": "Delta",
+            "url": "https://www.delta.com/",
+            "icon": {
+                "url": "/logos/airlines/DL.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "AM",
+            "name": "Aeroméxico",
+            "url": "https://world.aeromexico.com/",
+            "icon": {
+                "url": "/logos/airlines/AM.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "WS",
+            "name": "WestJet",
+            "url": "https://www.westjet.com/",
+            "icon": {
+                "url": "/logos/airlines/WS.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "AF",
+            "name": "Air France",
+            "url": "https://www.airfrance.com",
+            "icon": {
+                "url": "/logos/airlines/AF.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "VS",
+            "name": "Virgin Atlantic",
+            "url": "http://virginatlantic.com/",
+            "icon": {
+                "url": "/logos/airlines/VS.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        {
+            "code": "KL",
+            "name": "KLM",
+            "url": "https://www.klm.com",
+            "icon": {
+                "url": "/logos/airlines/KL.png",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        }
+    ],
+    "aircrafts": [
+        {
+            "code": "73H",
+            "manufacturer": "Boeing",
+            "model": "737-800"
+        },
+        {
+            "code": "739",
+            "manufacturer": "Boeing",
+            "model": "737-900"
+        },
+        {
+            "code": "DH4",
+            "manufacturer": "De Havilland Canada",
+            "model": "DHC-8-400 Dash 8Q"
+        },
+        {
+            "code": "73G",
+            "manufacturer": "Boeing",
+            "model": "737-700"
+        },
+        {
+            "code": "E75",
+            "manufacturer": "Embraer",
+            "model": "EMB 175"
+        },
+        {
+            "code": "717",
+            "manufacturer": "Boeing",
+            "model": "717"
+        },
+        {
+            "code": "E7W",
+            "manufacturer": "Embraer",
+            "model": "EMB 175"
+        },
+        {
+            "code": "73J",
+            "manufacturer": "Boeing",
+            "model": "737-900"
+        },
+        {
+            "code": "320",
+            "manufacturer": "Airbus",
+            "model": "A320-100/200"
+        }
+    ],
+    "agencies": [
+        {
+            "name": "Greyhound USA",
+            "url": "https://www.greyhound.com/",
+            "phone": "+1 214-849-8100/1-800-231-2222",
+            "icon": {
+                "url": "/logos/Trains/96/_GREYHOUND_USA_201803270955.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Northwestern Trailways",
+            "url": "http://www.northwesterntrailways.com",
+            "phone": "+1 800-366-6975",
+            "icon": {
+                "url": "/logos/Trains/96/_NORTHWESTERN_TRAILWAYS_20176101024.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Amtrak Thruway",
+            "url": "http://www.amtrak.com",
+            "phone": "+1 215-856-7924",
+            "icon": {
+                "url": "/logos/Trains/96/_AMTRAK_THRUWAY20172301038_201807301644.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Amtrak",
+            "url": "http://www.amtrak.com",
+            "phone": "+1 215-856-7924",
+            "icon": {
+                "url": "/logos/Trains/96/_AMTRAK_201807301644.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Sound Transit",
+            "url": "https://www.soundtransit.org/",
+            "phone": "+1 206-398-5000",
+            "icon": {
+                "url": "/logos/Trains/96/_SOUND_TRANSIT_ST_201804031415.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Spokane Transit",
+            "url": "http://www.spokanetransit.com",
+            "icon": {
+                "url": "/logos/trains/spokane.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "Shuttles by Jayride",
+            "icon": {
+                "url": "/logos/Trains/96/_JAYRIDE_SHUTTLE_US_201811051527.png",
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 23
+            }
+        },
+        {
+            "name": "College Cabs",
+            "url": "http://www.mycollegecabs.com/",
+            "phone": "+1 855-829-4487"
+        },
+        {
+            "name": "A-Z Taxi",
+            "phone": "+1 509-336-5050"
+        },
+        {
+            "name": "STITA Taxi",
+            "url": "http://www.stitataxi.com/",
+            "phone": "+1 206-246-9999"
+        },
+        {
+            "name": "Seattle Yellow Cab",
+            "url": "http://www.seattleyellowcab.com/",
+            "phone": "+1 206-622-6500"
+        },
+        {
+            "name": "Orange Cabs",
+            "phone": "+1 206-444-0409"
+        },
+        {
+            "name": "Spokane Cab",
+            "url": "https://www.facebook.com/Spokane-Cab-173609712739343/",
+            "phone": "+1 509-568-8000"
+        },
+        {
+            "name": "Orange Cab",
+            "url": "http://www.spokaneairporttaxicabride.com/",
+            "phone": "+1 509-263-6661"
+        },
+        {
+            "name": "Bill's Friendly Rides",
+            "url": "http://taxispokane.com/",
+            "phone": "+1 509-951-5445"
+        }
+    ],
+    "vehicles": [
+        {
+            "name": "Bus",
+            "kind": "bus"
+        },
+        {
+            "name": "Train",
+            "kind": "train"
+        },
+        {
+            "name": "Car",
+            "kind": "car"
+        },
+        {
+            "name": "Tram",
+            "kind": "tram"
+        },
+        {
+            "name": "Plane",
+            "kind": "plane"
+        },
+        {
+            "name": "Taxi",
+            "kind": "taxi"
+        },
+        {
+            "name": "Shuttle",
+            "kind": "shuttle"
+        }
+    ],
+    "routes": [
+        {
+            "name": "Bus Greyhound USA",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 452.86,
+            "totalDuration": 325,
+            "totalTransitDuration": 325,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "name": "Economy",
+                    "price": 50,
+                    "priceLow": 30,
+                    "priceHigh": 50,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Flexible",
+                    "price": 75,
+                    "priceLow": 55,
+                    "priceHigh": 80,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 2,
+                    "arrPlace": 3,
+                    "vehicle": 0,
+                    "distance": 452.86,
+                    "transitDuration": 325,
+                    "transferDuration": 0,
+                    "path": "_inaHv~riVqL_tAfYkb@z@s`JoH_aAvz@ggC~Qwe@pCgx@gJo{@|BoWoFw`BrJwxFfA_Jf{@khD|}@{qBhlA{hEvLghAh`@ow@li@cw@_Ega@kTwsAlXwcAtAocBoWsfApNgu@~M{aBxx@c{@v\\{lAz_ActBZg^i_@wgEKg{@aTcaBfQsk@rgBgyB`]{rAnI{NhxAc`BbE_\\Z{|EjOwx@~y@{gDfmAge@j]k|@e@{`AjHkvBnoAwlDtDchAYki@~^wlB`p@{{@tSsRbWko@rTgb@~N{dAn\\o|@dPsqC_EkmAyDkrCfWsdCka@_aC_T{RcfAka@ulA{r@_OgaA~a@wv@jr@zFp]{PdY_Z~YgFdb@gl@rTww@|Xsg@~b@sNrcAwIfZcSbh@_ErWg_@j~Awa@pKg}@zt@gq@fb@g~AtgA{pArWoOlr@ksA~ZoeAlo@c[|aAoUjk@o~@~SgcB{Fkc@bFwfAd]gvAt`@cbAxMw{AbEoHzzC{vDby@_sB|OwsBtCkOtRcsB`{BcgJxdAcdAJoJcPkvFuEsa@av@suDjHwr@vIo_Bvk@{iErh@gnAxb@o_@rp@_|AxQwhAwAktAha@sjCdMgSvq@gg@|~Asp@jW{[dz@{_@f{@syD`Z_Zdm@cZtp@cgBrYsV~Mog@hNww@jSo`@hkAo_DxmAogF`aAs~Cfp@ke@laDwvDgFwo@nD~r@cLrBtZog@vcDwgE~IkY`a@w}DRwLkBcuFxAcnAU_vAqF{{BRo`EuGsrDnFk{BbG_`@zg@w`B|Qoa@`]{fCRko@dQgh@hKkyAnGsfCt`@k}AdLwhEaQ{vAlL{wAyGgdBnEw_Bb]k~Bqa@{vBgCsrB~YcmAp@gvAzH{bAfL_|@sDw~@_Goq@|@spAmOsw@zB{_Cyc@_aC_qAjNkh@fX}hBg@c~@nSer@jSqZge@aVwrAkoBcaBiFoGmxGcjK}gAonA_`@sdAgeAsfBkIco@gCsp_BbCoc@~NgkA_KorFvX{tDaU{@tScNjiA__YfOkcXi@kxAf@woAaRosDrBowKnDgbBiAw`WiIs{@im@{eCoIcx@UwZvCcnG{Bcs@e[{kCgo@gfCcKoeAfC_rAsCc`Tr@ov@{AsqIiO{oAeUck@wkPo_XuY{u@mrEwaUum@w|A_e@goBwpA_cC}W_ZqnA{tBgy@waAwT{bAcC_eB_Yw{BkEgRcdDgeJ{\\go@_QoSmiD{aDaMsNylAkgBepA{iC{kGgmIw|Mg{TokAs_Bwd@{fAskC{nE}S{f@gg@c|AyPkVekCsqCk[{m@_xB{eHyaCo}EmrAg~DiT_hB[_jBoJGaHrV",
+                    "indicativePrices": [
+                        {
+                            "name": "Economy",
+                            "price": 50,
+                            "priceLow": 30,
+                            "priceHigh": 50,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Flexible",
+                            "price": 75,
+                            "priceLow": 55,
+                            "priceHigh": 80,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 2
+                        },
+                        {
+                            "place": 4,
+                            "transitDuration": 120,
+                            "stopDuration": 10
+                        },
+                        {
+                            "place": 5,
+                            "transitDuration": 200,
+                            "stopDuration": 15
+                        },
+                        {
+                            "place": 3,
+                            "transitDuration": 325
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 0,
+                            "frequency": 14,
+                            "duration": 325,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "1274",
+                                "1276"
+                            ],
+                            "lineCodes": [
+                                "GLI1274",
+                                "GLI1276"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Website",
+                                    "url": "https://www.greyhound.com/",
+                                    "displayUrl": "greyhound.com"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bus Northwestern Trailways",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 541.73,
+            "totalDuration": 460,
+            "totalTransitDuration": 460,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "price": 65,
+                    "priceLow": 40,
+                    "priceHigh": 80,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 6,
+                    "arrPlace": 7,
+                    "vehicle": 0,
+                    "distance": 541.73,
+                    "transitDuration": 460,
+                    "transferDuration": 0,
+                    "path": "asoaHrjsiV}m@b@{d@nHqg@kL}_AoDqj@o[{aHwG_s@zn@{yBF}n@o^qeBnCi~@~[ofA{Agr@wd@kd@kJoYcQ}eAkMse@G_fAk^{zCsaHeVoP}|Bsb@kgAc}@{eA{Z}wB{{CaZcSwoAsW{|Acl@if@cg@y~@nEyh@nLqdAz@_Z~Ios@fAkHwTwFcXsMKkCkh@tH{|@`D_iF`bAoz@liA{}AtP{{@|DgtA`K{d@~o@kzAlY_FvlBb_@r[_a@di@wjCfm@kaAxyCccCfJcThmAogE`Toy@rObCmMgl@hHgiAwA_b@~K{`G}Cof@tAsjApX{cDqGwt@ky@g}EoAku@qSohAmYkoEpNkqA\\kcBhGgvAds@{iBnkAwsCvcA_gEmGc|Ch`@sT~[rCrf@sq@dYw`BaA{`@hQo`At^oxDmQof@`Cs]|`@{vAxIcq@p|@{Wzp@{uAjY_OzbDgoE~Rsr@n^{i@zOsj@jKkLl}@{yCj`@{lBnd@sg@n{@o_CiEwm@vFs`@jCj]i_@_eBpNktBm@_aAxDgeAmO{gBiRsdApMoq@uTccFpLk~C|Esg@{D_zArCkr@jYonB}Wg_Cs^cnAeKniAqo@sDelBsoBQcfCpLcUyT{x@yRo[cx@kWy|@zCwz@w~AaIwuBkNgs@fMch@hb@s_@jVow@xD{cAjOwVfGolAeSwZqF_|@kNoo@sKc}Aq_@_{@qEc`BnO_sAqYcgBwRc]mUsaBrUo_BxCoj@hyB{eIzP_yAcOklAvGgi@bP_zBfg@o`@icCkiDw~@cF{\\bSicA_HJctB`YooCvk@ww@xdAbe@vf@Kjm@oUnZwk@ra@kA|`As{B`iCwEjz@oIhk@rP`nBr\\vm@_Ohs@zAp^rVxz@oEt`Bz\\r~@rGxj@gJdXrCfWjUt|AgExa@zi@lM~[uM{}@nz@gmC|}@oaBng@gH|LoW``@{Xv{Ag`Drj@cx@vq@gpBhFo{@}JoyC~Kk~@r]smA`Kgw@|M_c@_FwmAnNgo@`v@_bA~s@gvBvx@cl@ha@gOzj@oiAhC_M~x@gmG`b@g~Bfl@g\\`f@b@hvAgfAfZs@|fB{tA_GwUthAwYhH{}@zoAo|@jEcK`v@sxCnAkM|\\gwGxm@_{G`JotDfDsPh{@w~Bxx@gkAtaAc|Aln@_[n_@k[~yEo~@p_B~DfxBj}@l|@_@px@g{@xPwdBsF_eBth@k|DyJ_c@_c@we@q_@kjAxTsdAph@{fAjDgoH{D{pGoSo@mDsbAuLFdoVVrp@cf@fw@shB}D{[gCsp_B~SgbC{K_`Fj\\{eE{Vvc@Obx@x@sdApPgWjiA__YfOkcXAciDaRosDrBowKnDgbBiAw`WiIs{@im@{eCoIcx@UwZhC_bHmBg_@e[{kCgt@sxC_F_pAbCcu@sCc`Tr@ov@g@_xDjComAubB_rBSwBfw@wpAgAgA}iP{|WuY{u@mrEwaUum@w|Amk@o|BijAwuB}W_ZqnA{tBe`AgpAcPkpAwCo{Am\\o|BcdDgeJ{\\go@_QoSmiD{aD{zA_wBepA{iC{kGgmIw|Mg{TokAs_Bwd@{fAskC{nE}S{f@gg@c|AyPkVekCsqCk[{m@_xB{eHyaCo}EswA{nEcOkwA[_jBk[CnEjX",
+                    "indicativePrices": [
+                        {
+                            "price": 65,
+                            "priceLow": 40,
+                            "priceHigh": 80,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 6
+                        },
+                        {
+                            "place": 8,
+                            "transitDuration": 44
+                        },
+                        {
+                            "place": 9,
+                            "transitDuration": 66
+                        },
+                        {
+                            "place": 10,
+                            "transitDuration": 116
+                        },
+                        {
+                            "place": 11,
+                            "transitDuration": 136
+                        },
+                        {
+                            "place": 12,
+                            "transitDuration": 173
+                        },
+                        {
+                            "place": 13,
+                            "transitDuration": 207
+                        },
+                        {
+                            "place": 14,
+                            "transitDuration": 247
+                        },
+                        {
+                            "place": 15,
+                            "transitDuration": 296
+                        },
+                        {
+                            "place": 16,
+                            "transitDuration": 364
+                        },
+                        {
+                            "place": 7,
+                            "transitDuration": 460
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 1,
+                            "frequency": 7,
+                            "duration": 460,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "736"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "http://www.northwesterntrailways.com/",
+                                    "displayUrl": "northwesterntrailways.com"
+                                }
+                            ]
+                        },
+                        {
+                            "agency": 2,
+                            "frequency": 7,
+                            "duration": 480,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "8848"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Website",
+                                    "url": "https://free.rome2rio.com/amtrak?oName=Seattle%20Amtrak&dName=Spokane&oPos=47.59873,-122.3289&dPos=47.65621,-117.4153&queryDest=Spokane&outDate={outDate}&adults={adults}",
+                                    "displayUrl": "amtrak.com",
+                                    "moustacheUrl": "https://{r2rHostname}/amtrak?oName={fromName}&dName={toName}&oPos={fromLat},{fromLng}&dPos={toLat},{toLng}&queryDest={toName}&outDate={outDate}&adults={adults}"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bus Northwestern Trailways",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 544.1,
+            "totalDuration": 462,
+            "totalTransitDuration": 462,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "price": 65,
+                    "priceLow": 60,
+                    "priceHigh": 80,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 17,
+                    "arrPlace": 7,
+                    "vehicle": 0,
+                    "distance": 544.1,
+                    "transitDuration": 462,
+                    "transferDuration": 0,
+                    "path": "_yraHzntiVzXrb@`kA{fA}m@b@{d@nHqg@kL}_AoDqj@o[{aHwG_s@zn@{yBF}n@o^qeBnCi~@~[ofA{Agr@wd@kd@kJoYcQ}eAkMse@G_fAk^{zCsaHeVoP}|Bsb@kgAc}@{eA{Z}wB{{CaZcSwoAsW{|Acl@if@cg@y~@nEyh@nLqdAz@_Z~Ios@fAkHwTwFcXsMKkCkh@tH{|@`D_iF`bAoz@liA{}AtP{{@|DgtA`K{d@~o@kzAlY_FvlBb_@r[_a@di@wjCfm@kaAxyCccCfJcThmAogE`Toy@rObCmMgl@hHgiAwA_b@~K{`G}Cof@tAsjApX{cDqGwt@ky@g}EoAku@qSohAmYkoEpNkqA\\kcBhGgvAds@{iBnkAwsCvcA_gEmGc|Ch`@sT~[rCrf@sq@dYw`BaA{`@hQo`At^oxDmQof@`Cs]|`@{vAxIcq@p|@{Wzp@{uAjY_OzbDgoE~Rsr@n^{i@zOsj@jKkLl}@{yCj`@{lBnd@sg@n{@o_CiEwm@vFs`@jCj]i_@_eBpNktBm@_aAxDgeAmO{gBiRsdApMoq@uTccFpLk~C|Esg@{D_zArCkr@jYonB}Wg_Cs^cnAeKniAqo@sDelBsoBQcfCpLcUyT{x@yRo[cx@kWy|@zCwz@w~AaIwuBkNgs@fMch@hb@s_@jVow@xD{cAjOwVfGolAeSwZqF_|@kNoo@sKc}Aq_@_{@qEc`BnO_sAqYcgBwRc]mUsaBrUo_BxCoj@hyB{eIzP_yAcOklAvGgi@bP_zBfg@o`@icCkiDw~@cF{\\bSicA_HJctB`YooCvk@ww@xdAbe@vf@Kjm@oUnZwk@ra@kA|`As{B`iCwEjz@oIhk@rP`nBr\\vm@_Ohs@zAp^rVxz@oEt`Bz\\r~@rGxj@gJdXrCfWjUt|AgExa@zi@lM~[uM{}@nz@gmC|}@oaBng@gH|LoW``@{Xv{Ag`Drj@cx@vq@gpBhFo{@}JoyC~Kk~@r]smA`Kgw@|M_c@_FwmAnNgo@`v@_bA~s@gvBvx@cl@ha@gOzj@oiAhC_M~x@gmG`b@g~Bfl@g\\`f@b@hvAgfAfZs@|fB{tA_GwUthAwYhH{}@zoAo|@jEcK`v@sxCnAkM|\\gwGxm@_{G`JotDfDsPh{@w~Bxx@gkAtaAc|Aln@_[n_@k[~yEo~@p_B~DfxBj}@l|@_@px@g{@xPwdBsF_eBth@k|DyJ_c@_c@we@q_@kjAxTsdAph@{fAjDgoH{D{pGoSo@mDsbAuLFdoVVrp@cf@fw@shB}D{[gCsp_B~SgbC{K_`Fj\\{eE{Vvc@Obx@x@sdApPgWjiA__YfOkcXAciDaRosDrBowKnDgbBiAw`WiIs{@im@{eCoIcx@UwZhC_bHmBg_@e[{kCgt@sxC_F_pAbCcu@sCc`Tr@ov@g@_xDjComAubB_rBSwBfw@wpAgAgA}iP{|WuY{u@mrEwaUum@w|Amk@o|BijAwuB}W_ZqnA{tBe`AgpAcPkpAwCo{Am\\o|BcdDgeJ{\\go@_QoSmiD{aD{zA_wBepA{iC{kGgmIw|Mg{TokAs_Bwd@{fAskC{nE}S{f@gg@c|AyPkVekCsqCk[{m@_xB{eHyaCo}EswA{nEcOkwA[_jBk[CnEjX",
+                    "indicativePrices": [
+                        {
+                            "price": 65,
+                            "priceLow": 60,
+                            "priceHigh": 80,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 17
+                        },
+                        {
+                            "place": 6,
+                            "transitDuration": 2
+                        },
+                        {
+                            "place": 8,
+                            "transitDuration": 46
+                        },
+                        {
+                            "place": 9,
+                            "transitDuration": 68
+                        },
+                        {
+                            "place": 10,
+                            "transitDuration": 118
+                        },
+                        {
+                            "place": 11,
+                            "transitDuration": 138
+                        },
+                        {
+                            "place": 12,
+                            "transitDuration": 175
+                        },
+                        {
+                            "place": 13,
+                            "transitDuration": 209
+                        },
+                        {
+                            "place": 14,
+                            "transitDuration": 249
+                        },
+                        {
+                            "place": 15,
+                            "transitDuration": 298
+                        },
+                        {
+                            "place": 16,
+                            "transitDuration": 366
+                        },
+                        {
+                            "place": 7,
+                            "transitDuration": 462
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 1,
+                            "frequency": 7,
+                            "duration": 462,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "736"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "http://www.northwesterntrailways.com/",
+                                    "displayUrl": "northwesterntrailways.com"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Train",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 522.47,
+            "totalDuration": 480,
+            "totalTransitDuration": 480,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "name": "Coach Seat",
+                    "price": 70,
+                    "priceLow": 55,
+                    "priceHigh": 85,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Flexi Coach Seat",
+                    "price": 120,
+                    "priceLow": 95,
+                    "priceHigh": 140,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Business Coach Seat",
+                    "price": 120,
+                    "priceLow": 100,
+                    "priceHigh": 150,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Room",
+                    "price": 300,
+                    "priceLow": 250,
+                    "priceHigh": 350,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 18,
+                    "arrPlace": 19,
+                    "vehicle": 1,
+                    "distance": 522.47,
+                    "transitDuration": 480,
+                    "transferDuration": 0,
+                    "path": "iqoaHnrsiVxDwAu\\Wa[jZc_@r}Ao{@n_BcsAzbBeaBzFcXfPem@j_AcPzh@cYbEeWjOqa@g@qc@kOsoA~@}HwP{`@wuAm_@gd@wQ{Bkf@kVg_@gBqb@sK}`AjWsu@f`@c_A_N{iA~kAwz@jFkd@_RmlBrSog@gt@cBoETn@kw@gw@q~BokCkMgp@mXoa@qi@o\\on@C}z@cc@{c@zF_\\vM}nAkb@qXB_cBwh@sgAgbAo^cB{o@bFms@{]wKki@}N{x@q[gkAyJs_BoEohAak@krAsd@k{@wn@{dA~D_gBdTgFv@kBte@{Ml_BVnf@oPp~BcmCvGkOjnBkkLzuHcsWhKosBgB{m@pLk_GaDkm@~GkeBhRgwBuH{~@kx@{xEoDkoGa\\_qFvI{`BrvD{dJ|Jk|@}Kc`ErUoXhe@_Bb^we@rXsaA_D{bAdMku@ab@c`CzUc[~MbSvLjt@pQ{BfPoe@xMsaASgn@`PwfA_F_eAxWw[dj@oOtt@_yAxNgFdzCccEnaAggB~Loj@lRkUzkB{mF|_@gp@nQ{|@zN_KxYs`AcO{`CaQ{p@jQg_C`j@kw@rO_j@~rA_]kLoVgaBgAwe@koBbYorAwKsqCu@ogAuKwjAqI{YCslCmI{_@pEwp@lc@wqBqDgTyd@_x@avIos[jKg`A_VczBZoe@{PcgBcUoXuCw~@x@wmBxDoSjDgeAwOoo@eJskAwa@ss@jBo_AfIwg@dwAgqFhh@wiDiGk}ApTcgB|Gk|@|e@_Vpp@kFhW~DxkAwJda@gYp{@oeCrNsp@nQ{j@eVccCqc@kzBt@k]rb@c~ArY{MboAjAnj@zQ`mA~Cpm@nXrq@wJpw@bVnjBjMfk@{JvqAnDxp@kYzdAgvBrjAcyA~t@wMl\\_~@}@oz@x_@gu@lb@wa@~qAsl@zkAsjC|Dkm@vEsvBqBsg@p[spBlFse@fWkb@fR_rBb`@gm@~i@_i@na@_qAvC{g@j_A{e@v|@_{AzGoxAtPwhAbQ_O|s@{zAvGs}AdWoj@jRkn@rcE{}CvU_SldAct@vo@cDjhAwm@pJ_NnZ{lBr\\kmAjd@_zElL_hEhZgrBdNw]}CciAqXgWuB{fA~P{hA|x@cmB~t@{dAj}@sxAxx@kY|x@zHv]nIbi@b@rbAsH~_ErYnj@fKxq@_Dbx@cPxiAc`ApGgSrOc~B}\\gcBsC_r@`HcZnJsnAgSkaAmm@w\\_l@op@od@kV_a@kl@{tAoiA~kBn_@lj@kSdIw`AdVkkAp~@wkD|A{c@gu@kyPH{CkeBk_b@ir@syEkaAwcCyEgEehGg_EkD_AmaA{r@sqBs_F{iAoxEm|A{jByW_g@oR{n@_Gog@xA{aFcj@wkCuc@ce@wo@gQoPocA__@{dAwT_uAiB{fBca@sxEg\\grBcD{uA{M{~@_Oos@jKwdHtf@c|@_DoyDpEge@xb@gqAv]wi@dFgr@{H{rBeGci@{FcuAzJcdBj@w{@|Nsx@xBoa@rJ{b@[stB`}@{zFzeBw{FdpAciC|Is`AxUcuAdEkbAhp@sfClAwNv_@clAdf@wv@nRov@dw@{sAqH_p@crAwpBOsv@rl@saAba@{nAhHodFyPwsAgGgpA|Ngn@fHcdB}`@caCbD{_CmD_Xyk@{xAgBgTNwdDaAcNgz@_fG_EsdBoWkgCe\\_pDf@cTjXgxBg@o_BwCwH{zBs~C}FsMsv@klDo{BgdFyfConDkh@{vAwi@st@m`AsNajA_@kYkh@gv@gc@uh@{Jel@c{@aoA{vCeMw~Bga@wcBwNw|@}PcRiLwc@ua@k`AYsTpKgnA|b@{cFbVsaAzc@gj@tb@_zA{Fko@`CgnAhc@ky@lT{hAeHszA`VweAtA_q@_V_zB_Qg`A{[c~@u}AkcEsB{\\lL_qB{G{q@{dB{uFyrM{cWoLoq@agDcrKkkD_kKkc@{h@cbAsx@iBkHkJkiBvLcrAjr@gjCK_RoW_jB~Lkq@v~@{dA|N_Ff}@sCxPw\\xJcr@vb@c_AmDsOq\\cbAyP_l@wA{eBiCoA",
+                    "indicativePrices": [
+                        {
+                            "name": "Coach Seat",
+                            "price": 70,
+                            "priceLow": 55,
+                            "priceHigh": 85,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Flexi Coach Seat",
+                            "price": 120,
+                            "priceLow": 95,
+                            "priceHigh": 140,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Business Coach Seat",
+                            "price": 120,
+                            "priceLow": 100,
+                            "priceHigh": 150,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Room",
+                            "price": 300,
+                            "priceLow": 250,
+                            "priceHigh": 350,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 18
+                        },
+                        {
+                            "place": 20,
+                            "transitDuration": 32
+                        },
+                        {
+                            "place": 21,
+                            "transitDuration": 59
+                        },
+                        {
+                            "place": 22,
+                            "transitDuration": 200
+                        },
+                        {
+                            "place": 23,
+                            "transitDuration": 232,
+                            "stopDuration": 10
+                        },
+                        {
+                            "place": 24,
+                            "transitDuration": 302
+                        },
+                        {
+                            "place": 19,
+                            "transitDuration": 480
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 3,
+                            "frequency": 11,
+                            "duration": 480,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "Empire Builder"
+                            ],
+                            "lineCodes": [
+                                "75"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Website",
+                                    "url": "https://free.rome2rio.com/amtrak?oName=Seattle%20King%20Street%20Station&dName=Spokane%20Amtrak%20Station&oPos=47.5984459,-122.330162&dPos=47.65672,-117.415459&queryDest=Spokane%20Amtrak%20Station&outDate={outDate}&adults={adults}",
+                                    "displayUrl": "amtrak.com",
+                                    "moustacheUrl": "https://{r2rHostname}/amtrak?oName={fromName}&dName={toName}&oPos={fromLat},{fromLng}&dPos={toLat},{toLng}&queryDest={toName}&outDate={outDate}&adults={adults}"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Drive",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 450.03,
+            "totalDuration": 277,
+            "totalTransitDuration": 277,
+            "totalTransferDuration": 0,
+            "indicativePrices": [
+                {
+                    "name": "Small vehicle",
+                    "price": 28,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Medium vehicle",
+                    "price": 34,
+                    "currency": "USD"
+                },
+                {
+                    "name": "Large vehicle",
+                    "price": 40,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 0,
+                    "arrPlace": 1,
+                    "vehicle": 2,
+                    "distance": 450.03,
+                    "transitDuration": 277,
+                    "transferDuration": 0,
+                    "path": "kbqaHz~siVjq@gaA~VwQdE_d@nTo]z@s`JoH_aAvz@ggC~Qwe@pCgx@gJo{@|BoWoFw`BrJwxFfA_Jf{@khD|}@{qBhlA{hEvLghAh`@ow@li@cw@_Ega@kTwsAlXwcAtAocBoWsfApNgu@~M{aBxx@c{@v\\{lAz_ActBZg^i_@wgEKg{@aTcaBfQsk@rgBgyB`]{rAnI{NhxAc`BbE_\\Z{|EjOwx@~y@{gDfmAge@j]k|@e@{`AjHkvBnoAwlDtDchAYki@~^wlB`p@{{@tSsRbWko@rTgb@~N{dAn\\o|@dPsqC_EkmAyDkrCfWsdCka@_aC_T{RcfAka@ulA{r@_OgaA~a@wv@jr@zFp]{PdY_Z~YgFdb@gl@rTww@|Xsg@~b@sNrcAwIfZcSbh@_ErWg_@j~Awa@pKg}@zt@gq@fb@g~AtgA{pArWoOlr@ksA~ZoeAlo@c[|aAoUjk@o~@~SgcB{Fkc@bFwfAd]gvAt`@cbAxMw{AbEoHzzC{vDby@_sB|OwsBtCkOtRcsB`{BcgJxdAcdAJoJcPkvFuEsa@av@suDjHwr@vIo_Bhi@gcE`k@{tAxb@o_@rp@_|AxQwhAwAktAha@sjCdMgSvq@gg@|~Asp@jW{[dz@{_@f{@syD`Z_Zdm@cZtp@cgBrYsV~Mog@hNww@jSo`@hkAo_DxmAogF`aAs~Cfp@ke@fqBoaC~{@{uAvcDwgE~IkY`a@w}DRwLkBcuFxAcnAU_vAqF{{BRo`EuGsrDnFk{BbG_`@zg@w`B|Qoa@`]{fCRko@dQgh@hKkyAnGsfCt`@k}AdLwhEaQ{vAlL{wAyGgdBnEw_Bb]k~Bqa@{vBgCsrB~YcmAp@gvAzH{bAfL_|@sDw~@_Goq@|@spAmOsw@zB{_Cyc@_aC_qAjNkh@fX}hBg@c~@nSer@jSqZge@aVwrAkoBcaBiFoGmxGcjK}gAonA_`@sdAgeAsfBkIco@gCsp_BbCoc@~NgkAmKklFraBwa_@xOsmXi@kxAf@woAaRosDrBowKnDgbBiAw`WiIs{@im@{eCoIcx@UwZvCcnG{Bcs@e[{kCgo@gfCcKoeAfC_rAsCc`Tr@ov@{AsqIiO{oAeUck@wkPo_XuY{u@mrEwaUum@w|A_e@goBwpA_cC}W_ZqnA{tBgy@waAwT{bAcC_eB_Yw{BkEgRcdDgeJ{\\go@_QoSmiD{aDaMsNylAkgBepA{iC{kGgmIw|Mg{TokAs_Bwd@{fAskC{nE}S{f@gg@c|AyPkVekCsqCk[{m@_xB{eHyaCo}EmrAg~DgGw]qJ_bAgYJCs[oNrF@zP",
+                    "indicativePrices": [
+                        {
+                            "name": "Small vehicle",
+                            "price": 28,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Medium vehicle",
+                            "price": 34,
+                            "currency": "USD"
+                        },
+                        {
+                            "name": "Large vehicle",
+                            "price": 40,
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fly to Spokane",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 400.68,
+            "totalDuration": 203,
+            "totalTransitDuration": 113,
+            "totalTransferDuration": 90,
+            "indicativePrices": [
+                {
+                    "price": 165,
+                    "priceLow": 75,
+                    "priceHigh": 245,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 25,
+                    "arrPlace": 26,
+                    "vehicle": 3,
+                    "distance": 22.32,
+                    "transitDuration": 31,
+                    "transferDuration": 0,
+                    "path": "kloaHjfsiVtKGfQ{DhEFtBCpKK~Dj@~i@K~B?lOc@lAgHZ_d@ToM}@_GoGgQuAoGYwAqBoPf@cInG{XpCwV`DwE`B{@`IkDta@JbOCjD{@``@{S|AkA|A_@zDsBf|Bk~@tCwAfB[`EgB~k@o@lHsBlLwE~FO`KfB@SbJfBtCNnaAsHxGfEvAnGtAfn@dD~HnFr@hRkGvLsB~GcDtCgDtIgQfG{DpXcDdHcFh]{i@rE{CjDc@lKb@~B[nh@{SvXcDvM~@|D~FRvKmCfS?zIjCfNlHfOhBbMsA~L_ArDFBsBrMdCvKx@zAd`@rh@nIzD|UNhG_BbDsCzG_K|Bs@dTKZFn@?",
+                    "indicativePrices": [
+                        {
+                            "price": 3,
+                            "priceLow": 2,
+                            "priceHigh": 4,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 25
+                        },
+                        {
+                            "place": 32,
+                            "transitDuration": 2
+                        },
+                        {
+                            "place": 33,
+                            "transitDuration": 4
+                        },
+                        {
+                            "place": 34,
+                            "transitDuration": 7
+                        },
+                        {
+                            "place": 35,
+                            "transitDuration": 9
+                        },
+                        {
+                            "place": 36,
+                            "transitDuration": 12
+                        },
+                        {
+                            "place": 37,
+                            "transitDuration": 16
+                        },
+                        {
+                            "place": 38,
+                            "transitDuration": 19
+                        },
+                        {
+                            "place": 39,
+                            "transitDuration": 28
+                        },
+                        {
+                            "place": 26,
+                            "transitDuration": 31
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 4,
+                            "frequency": 1860,
+                            "duration": 31,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "Link station"
+                            ],
+                            "lineCodes": [
+                                "100479"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.soundtransit.org/Schedules",
+                                    "displayUrl": "soundtransit.org"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "segmentKind": "air",
+                    "depPlace": 27,
+                    "arrPlace": 28,
+                    "vehicle": 4,
+                    "distance": 358.1,
+                    "transitDuration": 60,
+                    "transferDuration": 60,
+                    "indicativePrices": [
+                        {
+                            "price": 160,
+                            "priceLow": 70,
+                            "priceHigh": 240,
+                            "currency": "USD"
+                        }
+                    ],
+                    "outbound": [
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "23:25",
+                                    "arrTime": "00:25",
+                                    "flight": "698",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 0,
+                                    "dayChange": 1,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6976"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 64,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "16:00",
+                                    "arrTime": "17:00",
+                                    "flight": "364",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 1,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6847"
+                                        },
+                                        {
+                                            "airline": 2,
+                                            "flight": "3215"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "20:55",
+                                    "arrTime": "21:55",
+                                    "flight": "2271",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7506"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "19:30",
+                                    "arrTime": "20:30",
+                                    "flight": "690",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 1,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6990"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 62,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "06:45",
+                                    "arrTime": "07:45",
+                                    "flight": "2372",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "16:30",
+                                    "arrTime": "17:30",
+                                    "flight": "2390",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "21:55",
+                                    "arrTime": "22:55",
+                                    "flight": "694",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 3,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6809"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "17:25",
+                                    "arrTime": "18:25",
+                                    "flight": "2610",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7509"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "14:35",
+                                    "arrTime": "15:35",
+                                    "flight": "2874",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7530"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "13:45",
+                                    "arrTime": "14:45",
+                                    "flight": "2506",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 3,
+                                            "flight": "7521"
+                                        },
+                                        {
+                                            "airline": 2,
+                                            "flight": "3079"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "12:45",
+                                    "arrTime": "13:45",
+                                    "flight": "2438",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 2,
+                                            "flight": "3015"
+                                        },
+                                        {
+                                            "airline": 4,
+                                            "flight": "6013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "09:55",
+                                    "arrTime": "10:55",
+                                    "flight": "2234",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 126,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "08:45",
+                                    "arrTime": "09:45",
+                                    "flight": "2378",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "07:40",
+                                    "arrTime": "08:40",
+                                    "flight": "2792",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "15:30",
+                                    "arrTime": "16:30",
+                                    "flight": "366",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 1,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6847"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "18:30",
+                                    "arrTime": "19:30",
+                                    "flight": "2270",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 3,
+                                            "flight": "7519"
+                                        },
+                                        {
+                                            "airline": 5,
+                                            "flight": "7609"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "11:45",
+                                    "arrTime": "12:50",
+                                    "flight": "2358",
+                                    "airline": 0,
+                                    "duration": 65,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "6013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "22:50",
+                                    "arrTime": "23:56",
+                                    "flight": "780",
+                                    "airline": 6,
+                                    "duration": 66,
+                                    "aircraft": 5,
+                                    "codeshares": [
+                                        {
+                                            "airline": 7,
+                                            "flight": "3497"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7426"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "15:16",
+                                    "arrTime": "16:24",
+                                    "flight": "5703",
+                                    "airline": 6,
+                                    "duration": 68,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 9,
+                                            "flight": "2982"
+                                        },
+                                        {
+                                            "airline": 4,
+                                            "flight": "3053"
+                                        },
+                                        {
+                                            "airline": 10,
+                                            "flight": "4427"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7436"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 64,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "10:59",
+                                    "arrTime": "12:07",
+                                    "flight": "5737",
+                                    "airline": 6,
+                                    "duration": 68,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "3053"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7436"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "17:10",
+                                    "arrTime": "18:19",
+                                    "flight": "5789",
+                                    "airline": 6,
+                                    "duration": 69,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 9,
+                                            "flight": "5713"
+                                        },
+                                        {
+                                            "airline": 10,
+                                            "flight": "1951"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7436"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "13:20",
+                                    "arrTime": "14:29",
+                                    "flight": "5853",
+                                    "airline": 6,
+                                    "duration": 69,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 11,
+                                            "flight": "7948"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7428"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "09:30",
+                                    "arrTime": "10:39",
+                                    "flight": "5810",
+                                    "airline": 6,
+                                    "duration": 69,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 8,
+                                            "flight": "7424"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "11:20",
+                                    "arrTime": "12:30",
+                                    "flight": "3744",
+                                    "airline": 6,
+                                    "duration": 70,
+                                    "aircraft": 6,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "3053"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7430"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 28,
+                                    "depTime": "07:48",
+                                    "arrTime": "09:03",
+                                    "flight": "5787",
+                                    "airline": 6,
+                                    "duration": 75,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 8,
+                                            "flight": "7428"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 31,
+                                    "depTime": "06:40",
+                                    "arrTime": "07:25",
+                                    "flight": "2244",
+                                    "airline": 0,
+                                    "duration": 45,
+                                    "aircraft": 2
+                                },
+                                {
+                                    "depPlace": 31,
+                                    "arrPlace": 28,
+                                    "depTime": "08:15",
+                                    "arrTime": "09:20",
+                                    "flight": "2352",
+                                    "airline": 0,
+                                    "duration": 65,
+                                    "aircraft": 2,
+                                    "layoverDuration": 50
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 31,
+                                    "depTime": "17:15",
+                                    "arrTime": "18:05",
+                                    "flight": "2315",
+                                    "airline": 0,
+                                    "duration": 50,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7558"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depPlace": 31,
+                                    "arrPlace": 28,
+                                    "depTime": "19:00",
+                                    "arrTime": "20:05",
+                                    "flight": "2356",
+                                    "airline": 0,
+                                    "duration": 65,
+                                    "aircraft": 2,
+                                    "layoverDuration": 55
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 31,
+                                    "depTime": "11:45",
+                                    "arrTime": "12:40",
+                                    "flight": "2464 1400 1400 1400",
+                                    "airline": 0,
+                                    "duration": 55,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "6006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depPlace": 31,
+                                    "arrPlace": 28,
+                                    "depTime": "13:30",
+                                    "arrTime": "14:35",
+                                    "flight": "2346",
+                                    "airline": 0,
+                                    "duration": 65,
+                                    "aircraft": 2,
+                                    "layoverDuration": 50,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7503"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "return": [
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "17:25",
+                                    "arrTime": "18:35",
+                                    "flight": "533",
+                                    "airline": 0,
+                                    "duration": 70,
+                                    "aircraft": 7
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "16:20",
+                                    "arrTime": "17:30",
+                                    "flight": "2509",
+                                    "airline": 0,
+                                    "duration": 70,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7493"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "05:15",
+                                    "arrTime": "06:30",
+                                    "flight": "695",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 3,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6881"
+                                        },
+                                        {
+                                            "airline": 4,
+                                            "flight": "6014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "10:45",
+                                    "arrTime": "12:00",
+                                    "flight": "2323",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 3,
+                                            "flight": "7520"
+                                        },
+                                        {
+                                            "airline": 5,
+                                            "flight": "7608"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "08:00",
+                                    "arrTime": "09:15",
+                                    "flight": "691",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 1,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6958"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "09:45",
+                                    "arrTime": "11:00",
+                                    "flight": "2673",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7556"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "19:20",
+                                    "arrTime": "20:35",
+                                    "flight": "2793",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "15:15",
+                                    "arrTime": "16:30",
+                                    "flight": "2241",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 3,
+                                            "flight": "7518"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "12:45",
+                                    "arrTime": "14:00",
+                                    "flight": "2187",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7520"
+                                        },
+                                        {
+                                            "airline": 2,
+                                            "flight": "3003"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "13:45",
+                                    "arrTime": "15:00",
+                                    "flight": "2359",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 2,
+                                            "flight": "3145"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "06:00",
+                                    "arrTime": "07:15",
+                                    "flight": "699",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 7,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "6957"
+                                        },
+                                        {
+                                            "airline": 4,
+                                            "flight": "6020"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "16:54",
+                                    "arrTime": "18:11",
+                                    "flight": "5703",
+                                    "airline": 6,
+                                    "duration": 77,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 8,
+                                            "flight": "7425"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "15:05",
+                                    "arrTime": "16:23",
+                                    "flight": "5853",
+                                    "airline": 6,
+                                    "duration": 78,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 10,
+                                            "flight": "1948"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7439"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 62,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "08:45",
+                                    "arrTime": "10:05",
+                                    "flight": "2371",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "20:55",
+                                    "arrTime": "22:15",
+                                    "flight": "2193",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7502"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 126,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "07:00",
+                                    "arrTime": "08:20",
+                                    "flight": "2501",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "6016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "11:20",
+                                    "arrTime": "12:40",
+                                    "flight": "2235",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7507"
+                                        },
+                                        {
+                                            "airline": 5,
+                                            "flight": "7608"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "07:30",
+                                    "arrTime": "08:50",
+                                    "flight": "2272",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "6016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 64,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "13:00",
+                                    "arrTime": "14:23",
+                                    "flight": "5737",
+                                    "airline": 6,
+                                    "duration": 83,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 10,
+                                            "flight": "1946"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7433"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "13:05",
+                                    "arrTime": "14:30",
+                                    "flight": "3744",
+                                    "airline": 6,
+                                    "duration": 85,
+                                    "aircraft": 6,
+                                    "codeshares": [
+                                        {
+                                            "airline": 10,
+                                            "flight": "1948"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7433"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "18:50",
+                                    "arrTime": "20:15",
+                                    "flight": "5789",
+                                    "airline": 6,
+                                    "duration": 85,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 7,
+                                            "flight": "3935"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7427"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "11:09",
+                                    "arrTime": "12:35",
+                                    "flight": "5810",
+                                    "airline": 6,
+                                    "duration": 86,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 11,
+                                            "flight": "8167"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7437"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "05:40",
+                                    "arrTime": "07:10",
+                                    "flight": "742",
+                                    "airline": 6,
+                                    "duration": 90,
+                                    "aircraft": 5,
+                                    "codeshares": [
+                                        {
+                                            "airline": 4,
+                                            "flight": "3100"
+                                        },
+                                        {
+                                            "airline": 8,
+                                            "flight": "7425"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 270,
+                                    "priceLow": 110,
+                                    "priceHigh": 650,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 27,
+                                    "depTime": "09:35",
+                                    "arrTime": "11:10",
+                                    "flight": "5787",
+                                    "airline": 6,
+                                    "duration": 95,
+                                    "aircraft": 4,
+                                    "codeshares": [
+                                        {
+                                            "airline": 8,
+                                            "flight": "7429"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 31,
+                                    "depTime": "18:50",
+                                    "arrTime": "20:10",
+                                    "flight": "2611",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7489"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depPlace": 31,
+                                    "arrPlace": 27,
+                                    "depTime": "21:00",
+                                    "arrTime": "21:55",
+                                    "flight": "2274",
+                                    "airline": 0,
+                                    "duration": 55,
+                                    "aircraft": 4,
+                                    "layoverDuration": 50,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7531"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 31,
+                                    "depTime": "11:45",
+                                    "arrTime": "13:05",
+                                    "flight": "2871",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7532"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depPlace": 31,
+                                    "arrPlace": 27,
+                                    "depTime": "14:00",
+                                    "arrTime": "14:55",
+                                    "flight": "1427 2568 1427",
+                                    "airline": 0,
+                                    "duration": 55,
+                                    "aircraft": 8,
+                                    "layoverDuration": 55,
+                                    "codeshares": [
+                                        {
+                                            "airline": 2,
+                                            "flight": "3044"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 62,
+                            "indicativePrices": [
+                                {
+                                    "price": 180,
+                                    "priceLow": 95,
+                                    "priceHigh": 410,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 28,
+                                    "arrPlace": 31,
+                                    "depTime": "14:30",
+                                    "arrTime": "15:55",
+                                    "flight": "2355",
+                                    "airline": 0,
+                                    "duration": 85,
+                                    "aircraft": 2
+                                },
+                                {
+                                    "depPlace": 31,
+                                    "arrPlace": 27,
+                                    "depTime": "17:00",
+                                    "arrTime": "17:50",
+                                    "flight": "2062",
+                                    "airline": 0,
+                                    "duration": 50,
+                                    "aircraft": 2,
+                                    "layoverDuration": 65,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7518"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 29,
+                    "arrPlace": 30,
+                    "vehicle": 0,
+                    "distance": 20.26,
+                    "transitDuration": 22,
+                    "transferDuration": 30,
+                    "path": "_ttaHrvklU_G{GuCg@oDRwHwFgIwL_QkKaF{Km@{HZsn@cB_MiAsDg@[g[ks@kC_Ny@gZFoJpAcOfA{Ef]_fA`HgP~F{@vDjErw@f~AxCfLxAvZtC{BdMsQsQwHk@{@giA_{BgDkKnDkBfBvIg@~Cw\\rbAkGrN{IrM}E~KqBOFsAS{AAsPTg@KsVNk@L_NfDw[nCkOzD{PNsNa@cKoBcKaB{D}IgPsBwEqX{|@_C{IsBoGUoJV{AeA{GuEgQYoI}HkPgAJWbRRcHaKCArHmE?BgQDoRBkLUcDsDkBDwNMSAcQN_BQsEA_RwBKyCJLwM",
+                    "indicativePrices": [
+                        {
+                            "price": 2,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 29
+                        },
+                        {
+                            "place": 40,
+                            "transitDuration": 1
+                        },
+                        {
+                            "place": 41,
+                            "transitDuration": 3
+                        },
+                        {
+                            "place": 42,
+                            "transitDuration": 5
+                        },
+                        {
+                            "place": 43,
+                            "transitDuration": 5
+                        },
+                        {
+                            "place": 44,
+                            "transitDuration": 5
+                        },
+                        {
+                            "place": 45,
+                            "transitDuration": 7
+                        },
+                        {
+                            "place": 46,
+                            "transitDuration": 10
+                        },
+                        {
+                            "place": 47,
+                            "transitDuration": 10
+                        },
+                        {
+                            "place": 48,
+                            "transitDuration": 12
+                        },
+                        {
+                            "place": 49,
+                            "transitDuration": 12
+                        },
+                        {
+                            "place": 50,
+                            "transitDuration": 13
+                        },
+                        {
+                            "place": 50,
+                            "transitDuration": 14
+                        },
+                        {
+                            "place": 51,
+                            "transitDuration": 14
+                        },
+                        {
+                            "place": 52,
+                            "transitDuration": 15
+                        },
+                        {
+                            "place": 53,
+                            "transitDuration": 16
+                        },
+                        {
+                            "place": 54,
+                            "transitDuration": 18
+                        },
+                        {
+                            "place": 55,
+                            "transitDuration": 19
+                        },
+                        {
+                            "place": 56,
+                            "transitDuration": 20
+                        },
+                        {
+                            "place": 30,
+                            "transitDuration": 22
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 5,
+                            "frequency": 167,
+                            "duration": 22,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "60"
+                            ],
+                            "lineCodes": [
+                                "60"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.google.com/maps?saddr=47.6244736,-117.538506&daddr=47.6578445,-117.422661&dirflg=r",
+                                    "displayUrl": "maps.google.com",
+                                    "moustacheUrl": "https://www.google.com/maps?saddr={fromLat},{fromLng}&daddr={toLat},{toLng}&dirflg=r"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "alternatives": [
+                {
+                    "firstSegment": 0,
+                    "lastSegment": 0,
+                    "route": {
+                        "name": "Shuttle",
+                        "depPlace": 61,
+                        "arrPlace": 62,
+                        "distance": 22.88,
+                        "totalDuration": 18,
+                        "totalTransitDuration": 18,
+                        "totalTransferDuration": 0,
+                        "indicativePrices": [
+                            {
+                                "price": 30,
+                                "priceLow": 16,
+                                "priceHigh": 75,
+                                "currency": "USD"
+                            }
+                        ],
+                        "segments": [
+                            {
+                                "segmentKind": "surface",
+                                "depPlace": 61,
+                                "arrPlace": 62,
+                                "vehicle": 6,
+                                "distance": 22.88,
+                                "transitDuration": 18,
+                                "transferDuration": 0,
+                                "path": "yaqaHj~siVXjDoCbCmD_OdNkMjMsKrPgUvJ_I~IsBnJKnRjBxESlNoCvFg@tPo@bUgDpIB|L~Ahi@fB~p@jIlNg@~FsBtPsKzRoKzFsGxQk_@fH_Ktc@{c@rY__@xFkEbr@kXt_@_Kh_@kOvAw@njAwy@th@sj@b\\kb@vGoEbIO|E~BdC~B|KrOvKjLxJbEfInAvF_@vVgKjPoDjCK|RwC|ScFtFvE?zL_HzP_DbQb@fLlC~IlH~NlAjOyBfW{@bS|BfJl]f`@jJvElYRxMg@tDsC~IsNvCKvDjD|FjN",
+                                "indicativePrices": [
+                                    {
+                                        "price": 30,
+                                        "priceLow": 16,
+                                        "priceHigh": 75,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "stops": [
+                                    {
+                                        "place": 61
+                                    },
+                                    {
+                                        "place": 62,
+                                        "transitDuration": 18
+                                    }
+                                ],
+                                "agencies": [
+                                    {
+                                        "agency": 6,
+                                        "frequency": -1,
+                                        "duration": 18
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "firstSegment": 0,
+                    "lastSegment": 0,
+                    "route": {
+                        "name": "Taxi",
+                        "depPlace": 0,
+                        "arrPlace": 27,
+                        "distance": 22.88,
+                        "totalDuration": 18,
+                        "totalTransitDuration": 18,
+                        "totalTransferDuration": 0,
+                        "indicativePrices": [
+                            {
+                                "price": 55,
+                                "priceLow": 45,
+                                "priceHigh": 55,
+                                "currency": "USD"
+                            }
+                        ],
+                        "segments": [
+                            {
+                                "segmentKind": "surface",
+                                "depPlace": 0,
+                                "arrPlace": 27,
+                                "vehicle": 5,
+                                "distance": 22.88,
+                                "transitDuration": 18,
+                                "transferDuration": 0,
+                                "path": "kbqaHz~siVj@zCoCbCmD_OdNkMjMsKrPgUvJ_I~IsBnJKnRjBxESlNoCvFg@tPo@bUgDpIB|L~Ahi@fB~p@jIlNg@~FsBtPsKzRoKzFsGxQk_@fH_Ktc@{c@rY__@xFkEbr@kXt_@_Kh_@kOvAw@njAwy@th@sj@b\\kb@vGoEbIO|E~BdC~B|KrOvKjLxJbEfInAvF_@vVgKjPoDjCK|RwC|ScFtFvE?zL_HzP_DbQb@fLlC~IlH~NlAjOyBfW{@bS|BfJl]f`@jJvElYRxMg@tDsC~IsNvCKvDjDzCbJ~AjC",
+                                "indicativePrices": [
+                                    {
+                                        "price": 55,
+                                        "priceLow": 45,
+                                        "priceHigh": 55,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "agencies": [
+                                    {
+                                        "agency": 9
+                                    },
+                                    {
+                                        "agency": 10
+                                    },
+                                    {
+                                        "agency": 11
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "firstSegment": 2,
+                    "lastSegment": 2,
+                    "route": {
+                        "name": "Taxi",
+                        "depPlace": 28,
+                        "arrPlace": 1,
+                        "distance": 11.41,
+                        "totalDuration": 10,
+                        "totalTransitDuration": 10,
+                        "totalTransferDuration": 0,
+                        "indicativePrices": [
+                            {
+                                "price": 25,
+                                "priceLow": 21,
+                                "priceHigh": 26,
+                                "currency": "USD"
+                            }
+                        ],
+                        "segments": [
+                            {
+                                "segmentKind": "surface",
+                                "depPlace": 28,
+                                "arrPlace": 1,
+                                "vehicle": 5,
+                                "distance": 11.41,
+                                "transitDuration": 10,
+                                "transferDuration": 0,
+                                "path": "svtaH~sklUkC{DeJ_@kE_CkBwBoG_KoC_CgNcIoDkGqAcHMgDZsn@_@_GcA_Ey^{y@uB{I_@cFo@gWFoJpAcOfA{E~l@_jBn@{IaA_FiB_C{L{FyC{DeGwPsdAo~CuB{IqC{RqJ_bAgYJCs[kN?AnX",
+                                "indicativePrices": [
+                                    {
+                                        "price": 25,
+                                        "priceLow": 21,
+                                        "priceHigh": 26,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "agencies": [
+                                    {
+                                        "agency": 12
+                                    },
+                                    {
+                                        "agency": 13
+                                    },
+                                    {
+                                        "agency": 14
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Fly to Pullman, bus",
+            "depPlace": 0,
+            "arrPlace": 1,
+            "distance": 551.45,
+            "totalDuration": 288,
+            "totalTransitDuration": 168,
+            "totalTransferDuration": 120,
+            "indicativePrices": [
+                {
+                    "price": 290,
+                    "priceLow": 166,
+                    "priceHigh": 466,
+                    "currency": "USD"
+                }
+            ],
+            "segments": [
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 25,
+                    "arrPlace": 26,
+                    "vehicle": 3,
+                    "distance": 22.32,
+                    "transitDuration": 31,
+                    "transferDuration": 0,
+                    "path": "kloaHjfsiVtKGfQ{DhEFtBCpKK~Dj@~i@K~B?lOc@lAgHZ_d@ToM}@_GoGgQuAoGYwAqBoPf@cInG{XpCwV`DwE`B{@`IkDta@JbOCjD{@``@{S|AkA|A_@zDsBf|Bk~@tCwAfB[`EgB~k@o@lHsBlLwE~FO`KfB@SbJfBtCNnaAsHxGfEvAnGtAfn@dD~HnFr@hRkGvLsB~GcDtCgDtIgQfG{DpXcDdHcFh]{i@rE{CjDc@lKb@~B[nh@{SvXcDvM~@|D~FRvKmCfS?zIjCfNlHfOhBbMsA~L_ArDFBsBrMdCvKx@zAd`@rh@nIzD|UNhG_BbDsCzG_K|Bs@dTKZFn@?",
+                    "indicativePrices": [
+                        {
+                            "price": 3,
+                            "priceLow": 2,
+                            "priceHigh": 4,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 25
+                        },
+                        {
+                            "place": 32,
+                            "transitDuration": 2
+                        },
+                        {
+                            "place": 33,
+                            "transitDuration": 4
+                        },
+                        {
+                            "place": 34,
+                            "transitDuration": 7
+                        },
+                        {
+                            "place": 35,
+                            "transitDuration": 9
+                        },
+                        {
+                            "place": 36,
+                            "transitDuration": 12
+                        },
+                        {
+                            "place": 37,
+                            "transitDuration": 16
+                        },
+                        {
+                            "place": 38,
+                            "transitDuration": 19
+                        },
+                        {
+                            "place": 39,
+                            "transitDuration": 28
+                        },
+                        {
+                            "place": 26,
+                            "transitDuration": 31
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 4,
+                            "frequency": 1860,
+                            "duration": 31,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "Link station"
+                            ],
+                            "lineCodes": [
+                                "100479"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "https://www.soundtransit.org/Schedules",
+                                    "displayUrl": "soundtransit.org"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "segmentKind": "air",
+                    "depPlace": 27,
+                    "arrPlace": 57,
+                    "vehicle": 4,
+                    "distance": 400.19,
+                    "transitDuration": 60,
+                    "transferDuration": 60,
+                    "indicativePrices": [
+                        {
+                            "price": 230,
+                            "priceLow": 120,
+                            "priceHigh": 390,
+                            "currency": "USD"
+                        }
+                    ],
+                    "outbound": [
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 57,
+                                    "depTime": "23:20",
+                                    "arrTime": "00:20",
+                                    "flight": "2364",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "dayChange": 1
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 57,
+                                    "depTime": "17:30",
+                                    "arrTime": "18:30",
+                                    "flight": "2454",
+                                    "airline": 0,
+                                    "duration": 60,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7528"
+                                        },
+                                        {
+                                            "airline": 2,
+                                            "flight": "3128"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 57,
+                                    "depTime": "13:35",
+                                    "arrTime": "14:40",
+                                    "flight": "2152",
+                                    "airline": 0,
+                                    "duration": 65,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 2,
+                                            "flight": "3029"
+                                        },
+                                        {
+                                            "airline": 4,
+                                            "flight": "6237"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 27,
+                                    "arrPlace": 57,
+                                    "depTime": "09:40",
+                                    "arrTime": "10:45",
+                                    "flight": "2144",
+                                    "airline": 0,
+                                    "duration": 65,
+                                    "aircraft": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "return": [
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 57,
+                                    "arrPlace": 27,
+                                    "depTime": "05:00",
+                                    "arrTime": "06:10",
+                                    "flight": "2067",
+                                    "airline": 0,
+                                    "duration": 70,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 1,
+                                            "flight": "7492"
+                                        },
+                                        {
+                                            "airline": 4,
+                                            "flight": "6238"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 57,
+                                    "arrPlace": 27,
+                                    "depTime": "11:35",
+                                    "arrTime": "12:50",
+                                    "flight": "2219",
+                                    "airline": 0,
+                                    "duration": 75,
+                                    "aircraft": 2,
+                                    "codeshares": [
+                                        {
+                                            "airline": 2,
+                                            "flight": "3088"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 63,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 57,
+                                    "arrPlace": 27,
+                                    "depTime": "19:15",
+                                    "arrTime": "20:35",
+                                    "flight": "2203",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2
+                                }
+                            ]
+                        },
+                        {
+                            "operatingDays": 127,
+                            "indicativePrices": [
+                                {
+                                    "price": 250,
+                                    "priceLow": 230,
+                                    "priceHigh": 800,
+                                    "currency": "USD"
+                                }
+                            ],
+                            "hops": [
+                                {
+                                    "depPlace": 57,
+                                    "arrPlace": 27,
+                                    "depTime": "15:25",
+                                    "arrTime": "16:45",
+                                    "flight": "2129",
+                                    "airline": 0,
+                                    "duration": 80,
+                                    "aircraft": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 57,
+                    "arrPlace": 58,
+                    "vehicle": 5,
+                    "distance": 7.15,
+                    "transitDuration": 7,
+                    "transferDuration": 0,
+                    "path": "{wh|GnyxiUWcAmAWRnGh@~B~FvNVjAxEvYlBfEdGbFhBfD`EjMpErH@bC`DbBbH~Jt@r@zKbHnA~AxDrHxC~DdDrChGrDhBjCvCbHzBjDp@j@hN~IzH~@hENm@~`@bAbz@p@zOs@rGgAbCqBjByFzAyD~B_BrBeKbPgAvBgJjVu@~CGzEXvE_@rUgBW}CsCkA^",
+                    "indicativePrices": [
+                        {
+                            "price": 27,
+                            "priceLow": 23,
+                            "priceHigh": 28,
+                            "currency": "USD"
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 7
+                        },
+                        {
+                            "agency": 8
+                        }
+                    ]
+                },
+                {
+                    "segmentKind": "surface",
+                    "depPlace": 58,
+                    "arrPlace": 59,
+                    "vehicle": 0,
+                    "distance": 121.78,
+                    "transitDuration": 70,
+                    "transferDuration": 60,
+                    "path": "mef|GnsejUrBnGiGvNXzf@gJbb@IzgBaCfa@mKbe@gFfMq^ri@{LzE}QrCql@zYgYz[_AfSdFf~@{Lzf@kc@f]qv@zuAsBvFma@jxAyEvLua@nr@_u@bf@cpA~\\cYrLyeAbWs`@bS{RjU_Vrd@gEbBom@rFy_@Keb@nx@sf@rNaLnb@}SwJeXbImCjf@eGnJs_@o@u@{At@zA}_AsCwPcJcMsCm]wT}Vc~@gHJia@rRo[kCgc@sJuX{Su\\gk@oG_G_`@oS{M^eYnHmKBeiAwO_T{Lqb@wh@sZ_FqUbRwj@vcBaSr_@s]n[ad@nMgHZcxAb@yRnDuuAne@c`@~WscAbiA}YrOuI~Ac}CbQkNSgcBcXuKg@}{KoAiJf@e\\bGq_@ZgRsDwdE{dB}eAwu@o[gBiInCy}@vi@c]vIyQG_cAgKqQzD{LnKsZbb@}QfF{h@oAaUcKqd@_b@mXgKyXfHmKfNe~@jbCaZ~WeUzBco@wJmFwC}d@_c@oRwF__ENuUfAmVbD_j@rP{t@na@mUvE}lDrA{SoA_UcDcaBc^ir@_D}h@b@cR~JiaA~cAwXnK}Ug@sVkE{xAbJe_Ck@i]oNoSgVcKf@wt@r_@ec@jEoL{Aw}@_W}VkLqWzHoi@~EsyAje@wYrB_n@Sqa@vPuMvIyZn\\cl@r_@uMfWc{@zzAiTbWoz@rb@_x@zU}R[gPgj@aHki@aF_m@ZoiBc]S`ErY",
+                    "indicativePrices": [
+                        {
+                            "price": 30,
+                            "priceLow": 20,
+                            "priceHigh": 45,
+                            "currency": "USD"
+                        }
+                    ],
+                    "stops": [
+                        {
+                            "place": 58
+                        },
+                        {
+                            "place": 60,
+                            "transitDuration": 25
+                        },
+                        {
+                            "place": 59,
+                            "transitDuration": 70
+                        }
+                    ],
+                    "agencies": [
+                        {
+                            "agency": 1,
+                            "frequency": 7,
+                            "duration": 70,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "732"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Schedules at",
+                                    "url": "http://www.northwesterntrailways.com/",
+                                    "displayUrl": "northwesterntrailways.com"
+                                }
+                            ]
+                        },
+                        {
+                            "agency": 2,
+                            "frequency": 7,
+                            "duration": 98,
+                            "operatingDays": 127,
+                            "lineNames": [
+                                "8828"
+                            ],
+                            "links": [
+                                {
+                                    "text": "Website",
+                                    "url": "https://free.rome2rio.com/amtrak?oName=Pullman&dName=Spokane&oPos=46.73127,-117.1796&dPos=47.65628,-117.4155&queryDest=Spokane&outDate={outDate}&adults={adults}",
+                                    "displayUrl": "amtrak.com",
+                                    "moustacheUrl": "https://{r2rHostname}/amtrak?oName={fromName}&dName={toName}&oPos={fromLat},{fromLng}&dPos={toLat},{toLng}&queryDest={toName}&outDate={outDate}&adults={adults}"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "alternatives": [
+                {
+                    "firstSegment": 0,
+                    "lastSegment": 0,
+                    "route": {
+                        "name": "Shuttle",
+                        "depPlace": 61,
+                        "arrPlace": 62,
+                        "distance": 22.88,
+                        "totalDuration": 18,
+                        "totalTransitDuration": 18,
+                        "totalTransferDuration": 0,
+                        "indicativePrices": [
+                            {
+                                "price": 30,
+                                "priceLow": 16,
+                                "priceHigh": 75,
+                                "currency": "USD"
+                            }
+                        ],
+                        "segments": [
+                            {
+                                "segmentKind": "surface",
+                                "depPlace": 61,
+                                "arrPlace": 62,
+                                "vehicle": 6,
+                                "distance": 22.88,
+                                "transitDuration": 18,
+                                "transferDuration": 0,
+                                "path": "yaqaHj~siVXjDoCbCmD_OdNkMjMsKrPgUvJ_I~IsBnJKnRjBxESlNoCvFg@tPo@bUgDpIB|L~Ahi@fB~p@jIlNg@~FsBtPsKzRoKzFsGxQk_@fH_Ktc@{c@rY__@xFkEbr@kXt_@_Kh_@kOvAw@njAwy@th@sj@b\\kb@vGoEbIO|E~BdC~B|KrOvKjLxJbEfInAvF_@vVgKjPoDjCK|RwC|ScFtFvE?zL_HzP_DbQb@fLlC~IlH~NlAjOyBfW{@bS|BfJl]f`@jJvElYRxMg@tDsC~IsNvCKvDjD|FjN",
+                                "indicativePrices": [
+                                    {
+                                        "price": 30,
+                                        "priceLow": 16,
+                                        "priceHigh": 75,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "stops": [
+                                    {
+                                        "place": 61
+                                    },
+                                    {
+                                        "place": 62,
+                                        "transitDuration": 18
+                                    }
+                                ],
+                                "agencies": [
+                                    {
+                                        "agency": 6,
+                                        "frequency": -1,
+                                        "duration": 18
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "firstSegment": 0,
+                    "lastSegment": 0,
+                    "route": {
+                        "name": "Taxi",
+                        "depPlace": 0,
+                        "arrPlace": 27,
+                        "distance": 22.88,
+                        "totalDuration": 18,
+                        "totalTransitDuration": 18,
+                        "totalTransferDuration": 0,
+                        "indicativePrices": [
+                            {
+                                "price": 55,
+                                "priceLow": 45,
+                                "priceHigh": 55,
+                                "currency": "USD"
+                            }
+                        ],
+                        "segments": [
+                            {
+                                "segmentKind": "surface",
+                                "depPlace": 0,
+                                "arrPlace": 27,
+                                "vehicle": 5,
+                                "distance": 22.88,
+                                "transitDuration": 18,
+                                "transferDuration": 0,
+                                "path": "kbqaHz~siVj@zCoCbCmD_OdNkMjMsKrPgUvJ_I~IsBnJKnRjBxESlNoCvFg@tPo@bUgDpIB|L~Ahi@fB~p@jIlNg@~FsBtPsKzRoKzFsGxQk_@fH_Ktc@{c@rY__@xFkEbr@kXt_@_Kh_@kOvAw@njAwy@th@sj@b\\kb@vGoEbIO|E~BdC~B|KrOvKjLxJbEfInAvF_@vVgKjPoDjCK|RwC|ScFtFvE?zL_HzP_DbQb@fLlC~IlH~NlAjOyBfW{@bS|BfJl]f`@jJvElYRxMg@tDsC~IsNvCKvDjDzCbJ~AjC",
+                                "indicativePrices": [
+                                    {
+                                        "price": 55,
+                                        "priceLow": 45,
+                                        "priceHigh": 55,
+                                        "currency": "USD"
+                                    }
+                                ],
+                                "agencies": [
+                                    {
+                                        "agency": 9
+                                    },
+                                    {
+                                        "agency": 10
+                                    },
+                                    {
+                                        "agency": 11
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "firstSegment": 2,
+                    "lastSegment": 3,
+                    "route": {
+                        "name": "Drive",
+                        "depPlace": 57,
+                        "arrPlace": 1,
+                        "distance": 127.5,
+                        "totalDuration": 98,
+                        "totalTransitDuration": 98,
+                        "totalTransferDuration": 0,
+                        "indicativePrices": [
+                            {
+                                "name": "Small vehicle",
+                                "price": 8,
+                                "currency": "USD"
+                            },
+                            {
+                                "name": "Medium vehicle",
+                                "price": 10,
+                                "currency": "USD"
+                            },
+                            {
+                                "name": "Large vehicle",
+                                "price": 12,
+                                "currency": "USD"
+                            }
+                        ],
+                        "segments": [
+                            {
+                                "segmentKind": "surface",
+                                "depPlace": 57,
+                                "arrPlace": 1,
+                                "vehicle": 2,
+                                "distance": 127.5,
+                                "transitDuration": 98,
+                                "transferDuration": 0,
+                                "path": "{wh|GnyxiUg@rHvGbQtJna@`IzIp[zk@jNbKlZf]dIzNxOnJtM~@m@~`@vArqAcV~RmMzSeLfb@Ej\\}MjUMzi@iI~d@?~aBaCfa@mKbe@gFfMq^ri@y_@nJql@zYgYz[_AfSdFf~@cOri@ca@nZqv@zuAsBvFma@jxAyEvLua@nr@_u@bf@cpA~\\cYrLyeAbWs`@bS{RjU_Vrd@gEbBom@rFy_@Keb@nx@me@nLgMrd@}SwJeXbImCjf@eGnJ_|AsCiUsKcMsCm]wT}Vc~@gHJia@rRo[kCgc@sJuX{Su\\gk@oG_Gqc@gTod@fJmKBeiAwO_T{Lqb@wh@sZ_FqUbRwj@vcBaSr_@s]n[ad@nMgHZcxAb@yRnDuuAne@c`@~WscAbiA}YrOuI~Ac}CbQkNSgcBcXuKg@}{KoAiJf@e\\bGq_@ZgRsDwdE{dB}eAwu@o[gBiInCy}@vi@c]vIyQG_cAgKqQzD{LnKsZbb@}QfF{h@oAaUcKom@_i@oYkC_WfPgCjEe~@jbCaZ~WeUzBco@wJmFwC}d@_c@oRwF__ENuUfAmVbD_j@rP{t@na@mUvE}lDrA{SoA_UcDcaBc^ir@_D}h@b@cR~JiaA~cAwXnK}Ug@sVkE{xAbJe_Ck@i]oNoSgVcKf@wt@r_@ec@jEoL{Aw}@_W}VkLqWzHoi@~EsyAje@wYrB_n@Sqa@vPuMvIyZn\\cl@r_@uMfWc{@zzAiTbWoz@rb@_x@zU}R[gPgj@sMcpAgYJCs[oNrF@zP",
+                                "indicativePrices": [
+                                    {
+                                        "name": "Small vehicle",
+                                        "price": 8,
+                                        "currency": "USD"
+                                    },
+                                    {
+                                        "name": "Medium vehicle",
+                                        "price": 10,
+                                        "currency": "USD"
+                                    },
+                                    {
+                                        "name": "Large vehicle",
+                                        "price": 12,
+                                        "currency": "USD"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

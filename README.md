@@ -1,4 +1,6 @@
-TravelPlan
+# replaced by https://unli.xyz/city/calc/
+
+# TravelPlan
 
 ## Setup
 
